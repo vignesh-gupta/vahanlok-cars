@@ -6,6 +6,7 @@ import type { Car } from "@/lib/types";
 import FilterBar, { type FilterState } from "@/components/FilterBar";
 import CarCard from "@/components/CarCard";
 import { SlidersHorizontal } from "lucide-react";
+import { buildWhatsAppUrl } from "@/lib/config";
 
 interface CarsClientProps {
   initialCars: Car[];
@@ -62,7 +63,8 @@ export default function CarsClient({
     if (!inquiryName.trim()) return setError("Please enter your name.");
     if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(inquiryEmail))
       return setError("Please enter a valid email address.");
-    if (!inquiryDetails.trim()) return setError("Please describe your requirement.");
+    if (!inquiryDetails.trim())
+      return setError("Please describe your requirement.");
 
     setSubmitting(true);
     try {
@@ -72,11 +74,33 @@ export default function CarsClient({
       setInquiryName("");
       setInquiryEmail("");
       setInquiryDetails("");
-    } catch (e) {
+    } catch (err) {
+      console.log("Error submitting inquiry:", err);
       setError("Failed to submit. Please try again.");
     } finally {
       setSubmitting(false);
     }
+  }
+
+  function sendViaWhatsApp() {
+    setError(null);
+    if (!inquiryName.trim()) return setError("Please enter your name.");
+    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(inquiryEmail))
+      return setError("Please enter a valid email address.");
+    if (!inquiryDetails.trim())
+      return setError("Please describe your requirement.");
+
+    // Build message and open WhatsApp chat
+    const message = `Name: ${inquiryName}\nEmail: ${inquiryEmail}\nRequirement: ${inquiryDetails}`;
+    const url = buildWhatsAppUrl(message);
+    // Open in a new tab/window (WhatsApp Web or app)
+    if (typeof window !== "undefined") {
+      window.open(url, "_blank", "noopener,noreferrer");
+    }
+    setSubmitted(true);
+    setInquiryName("");
+    setInquiryEmail("");
+    setInquiryDetails("");
   }
 
   const filtered = initialCars.filter((car) => {
@@ -119,12 +143,16 @@ export default function CarsClient({
         </div>
       ) : filters.type === "pre-owned" ? (
         <div className="max-w-2xl mx-auto bg-white border border-gray-100 rounded-xl p-6 shadow-sm">
-          <h3 className="font-semibold text-[#1A1A1A] text-lg mb-2">Looking for a Pre-Owned car?</h3>
-          <p className="text-gray-500 text-sm mb-4">Tell us your requirement and we'll get back to you.</p>
+          <h3 className="font-semibold text-[#1A1A1A] text-lg mb-2">
+            Looking for a Pre-Owned car?
+          </h3>
+          <p className="text-gray-500 text-sm mb-4">
+            Tell us your requirement and we&apos;ll get back to you.
+          </p>
 
           {submitted ? (
             <div className="bg-green-50 border border-green-100 rounded-md p-4 text-green-700">
-              Thanks — we'll contact you soon.
+              Thanks — we&apos;ll contact you soon.
             </div>
           ) : (
             <>
@@ -160,6 +188,14 @@ export default function CarsClient({
                     type="button"
                   >
                     Clear
+                  </button>
+                  <button
+                    onClick={sendViaWhatsApp}
+                    disabled={submitting}
+                    className="text-sm bg-[#25D366] text-white px-4 py-2 rounded-md disabled:opacity-60"
+                    type="button"
+                  >
+                    Send via WhatsApp
                   </button>
                   <button
                     onClick={submitInquiry}
