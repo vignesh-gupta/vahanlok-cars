@@ -1,7 +1,6 @@
 [
   {
     "id": "honda-amaze-2024-new",
-    "type": "new",
     "brand": "HONDA",
     "model": "AMAZE",
     "year": 2024,
@@ -32,7 +31,6 @@
   },
   {
     "id": "honda-city-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "HONDA",
     "model": "CITY",
     "year": 2021,
@@ -64,7 +62,6 @@
   },
   {
     "id": "honda-elevate-2024-new",
-    "type": "new",
     "brand": "HONDA",
     "model": "ELEVATE",
     "year": 2024,
@@ -95,7 +92,6 @@
   },
   {
     "id": "hyundai-alcazar-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "HYUNDAI",
     "model": "ALCAZAR",
     "year": 2023,
@@ -127,7 +123,6 @@
   },
   {
     "id": "hyundai-aura-2024-new",
-    "type": "new",
     "brand": "HYUNDAI",
     "model": "AURA",
     "year": 2024,
@@ -158,7 +153,6 @@
   },
   {
     "id": "hyundai-creta-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "HYUNDAI",
     "model": "CRETA",
     "year": 2021,
@@ -190,7 +184,6 @@
   },
   {
     "id": "hyundai-creta-ev-2024-new",
-    "type": "new",
     "brand": "HYUNDAI",
     "model": "CRETA EV",
     "year": 2024,
@@ -199,11 +192,11 @@
     "transmission": "Automatic",
     "color": "Calgary White",
     "images": [
-      "/cars/HYUNDAI/CRETA%20EV/cretaelectriccretaevfrontview.webp",
-      "/cars/HYUNDAI/CRETA%20EV/cretaelectriccretaevleftsideview.webp",
-      "/cars/HYUNDAI/CRETA%20EV/cretaelectrichyundaicretaelectricrearview.webp",
-      "/cars/HYUNDAI/CRETA%20EV/cretaelectrichyundaicretaelectricrightsideview.webp",
-      "/cars/HYUNDAI/CRETA%20EV/cretaelectriccretaevdashboard.webp"
+      "/cars/HYUNDAI/CRETA EV/cretaelectriccretaevfrontview.webp",
+      "/cars/HYUNDAI/CRETA EV/cretaelectriccretaevleftsideview.webp",
+      "/cars/HYUNDAI/CRETA EV/cretaelectrichyundaicretaelectricrearview.webp",
+      "/cars/HYUNDAI/CRETA EV/cretaelectrichyundaicretaelectricrightsideview.webp",
+      "/cars/HYUNDAI/CRETA EV/cretaelectriccretaevdashboard.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -221,7 +214,6 @@
   },
   {
     "id": "hyundai-creta-n-line-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "HYUNDAI",
     "model": "CRETA N LINE",
     "year": 2023,
@@ -230,11 +222,11 @@
     "transmission": "CVT",
     "color": "Imperial Blue",
     "images": [
-      "/cars/HYUNDAI/CRETA%20N%20LINE/cretanlinehyundaicretanlinefrontview8.webp",
-      "/cars/HYUNDAI/CRETA%20N%20LINE/cretanlinecretanlineleftsideview.webp",
-      "/cars/HYUNDAI/CRETA%20N%20LINE/cretanlinecretanlinerearview.webp",
-      "/cars/HYUNDAI/CRETA%20N%20LINE/cretanlinecretanlinerightsideview.webp",
-      "/cars/HYUNDAI/CRETA%20N%20LINE/cretanlinehyundaicretanlinedashboard10.webp"
+      "/cars/HYUNDAI/CRETA N LINE/cretanlinehyundaicretanlinefrontview8.webp",
+      "/cars/HYUNDAI/CRETA N LINE/cretanlinecretanlineleftsideview.webp",
+      "/cars/HYUNDAI/CRETA N LINE/cretanlinecretanlinerearview.webp",
+      "/cars/HYUNDAI/CRETA N LINE/cretanlinecretanlinerightsideview.webp",
+      "/cars/HYUNDAI/CRETA N LINE/cretanlinehyundaicretanlinedashboard10.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -253,7 +245,6 @@
   },
   {
     "id": "hyundai-exter-2024-new",
-    "type": "new",
     "brand": "HYUNDAI",
     "model": "EXTER",
     "year": 2024,
@@ -284,7 +275,6 @@
   },
   {
     "id": "hyundai-i-10-nios-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "HYUNDAI",
     "model": "I 10 NIOS",
     "year": 2021,
@@ -293,11 +283,11 @@
     "transmission": "AMT",
     "color": "Starry Black",
     "images": [
-      "/cars/HYUNDAI/I%2010%20NIOS/grand-i10-nios-exterior-front-view.avif",
-      "/cars/HYUNDAI/I%2010%20NIOS/grand-i10-nios-exterior-rear-view.avif",
-      "/cars/HYUNDAI/I%2010%20NIOS/grand-i10-nios-exterior-right-side-view-15.avif",
-      "/cars/HYUNDAI/I%2010%20NIOS/grand-i10-nios-exterior-right-side-view-7.avif",
-      "/cars/HYUNDAI/I%2010%20NIOS/grand-i10-nios-interior-dashboard.avif"
+      "/cars/HYUNDAI/I 10 NIOS/grand-i10-nios-exterior-front-view.avif",
+      "/cars/HYUNDAI/I 10 NIOS/grand-i10-nios-exterior-rear-view.avif",
+      "/cars/HYUNDAI/I 10 NIOS/grand-i10-nios-exterior-right-side-view-15.avif",
+      "/cars/HYUNDAI/I 10 NIOS/grand-i10-nios-exterior-right-side-view-7.avif",
+      "/cars/HYUNDAI/I 10 NIOS/grand-i10-nios-interior-dashboard.avif"
     ],
     "features": [
       "Dealer maintained",
@@ -316,7 +306,6 @@
   },
   {
     "id": "hyundai-i-20-2024-new",
-    "type": "new",
     "brand": "HYUNDAI",
     "model": "I 20",
     "year": 2024,
@@ -325,11 +314,11 @@
     "transmission": "Manual",
     "color": "Silver Metallic",
     "images": [
-      "/cars/HYUNDAI/I%2020/hyundaii20frontview.webp",
-      "/cars/HYUNDAI/I%2020/i20rightfrontthreequarter.webp",
-      "/cars/HYUNDAI/I%2020/hyundaii20rearview.webp",
-      "/cars/HYUNDAI/I%2020/hyundaii20rightsideview.webp",
-      "/cars/HYUNDAI/I%2020/hyundaii20steeringwheel.webp"
+      "/cars/HYUNDAI/I 20/hyundaii20frontview.webp",
+      "/cars/HYUNDAI/I 20/i20rightfrontthreequarter.webp",
+      "/cars/HYUNDAI/I 20/hyundaii20rearview.webp",
+      "/cars/HYUNDAI/I 20/hyundaii20rightsideview.webp",
+      "/cars/HYUNDAI/I 20/hyundaii20steeringwheel.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -347,7 +336,6 @@
   },
   {
     "id": "hyundai-ioniq-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "HYUNDAI",
     "model": "IONIQ",
     "year": 2023,
@@ -379,7 +367,6 @@
   },
   {
     "id": "hyundai-venue-2024-new",
-    "type": "new",
     "brand": "HYUNDAI",
     "model": "VENUE",
     "year": 2024,
@@ -410,7 +397,6 @@
   },
   {
     "id": "hyundai-venue-n-line-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "HYUNDAI",
     "model": "VENUE N LINE",
     "year": 2021,
@@ -419,11 +405,11 @@
     "transmission": "DCT",
     "color": "Abyss Black Pearl",
     "images": [
-      "/cars/HYUNDAI/VENUE%20N%20LINE/venuenlinenewvenuenlinefrontview.webp",
-      "/cars/HYUNDAI/VENUE%20N%20LINE/venuenlinenewvenuenlineleftsideview.webp",
-      "/cars/HYUNDAI/VENUE%20N%20LINE/venuenlinenewvenuenlinerearview.webp",
-      "/cars/HYUNDAI/VENUE%20N%20LINE/venuenlinehyundainewvenuenlinerightsideview.webp",
-      "/cars/HYUNDAI/VENUE%20N%20LINE/venuenlinehyundainewvenuenlinedashboard.webp"
+      "/cars/HYUNDAI/VENUE N LINE/venuenlinenewvenuenlinefrontview.webp",
+      "/cars/HYUNDAI/VENUE N LINE/venuenlinenewvenuenlineleftsideview.webp",
+      "/cars/HYUNDAI/VENUE N LINE/venuenlinenewvenuenlinerearview.webp",
+      "/cars/HYUNDAI/VENUE N LINE/venuenlinehyundainewvenuenlinerightsideview.webp",
+      "/cars/HYUNDAI/VENUE N LINE/venuenlinehyundainewvenuenlinedashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -442,7 +428,6 @@
   },
   {
     "id": "hyundai-verna-2024-new",
-    "type": "new",
     "brand": "HYUNDAI",
     "model": "VERNA",
     "year": 2024,
@@ -473,7 +458,6 @@
   },
   {
     "id": "kia-carens-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "KIA",
     "model": "CARENS",
     "year": 2023,
@@ -504,7 +488,6 @@
   },
   {
     "id": "kia-carens-clavis-2024-new",
-    "type": "new",
     "brand": "KIA",
     "model": "CARENS CLAVIS",
     "year": 2024,
@@ -513,10 +496,10 @@
     "transmission": "Automatic",
     "color": "Oxford Blue",
     "images": [
-      "/cars/KIA/CARENS%20CLAVIS/carensclaviscarensclavisfrontview.webp",
-      "/cars/KIA/CARENS%20CLAVIS/carensclaviscarensclavisleftfrontthreequarter.webp",
-      "/cars/KIA/CARENS%20CLAVIS/carensclaviscarensclavisrightfrontthreequarter.webp",
-      "/cars/KIA/CARENS%20CLAVIS/carensclaviscarensclavisdashboard.webp"
+      "/cars/KIA/CARENS CLAVIS/carensclaviscarensclavisfrontview.webp",
+      "/cars/KIA/CARENS CLAVIS/carensclaviscarensclavisleftfrontthreequarter.webp",
+      "/cars/KIA/CARENS CLAVIS/carensclaviscarensclavisrightfrontthreequarter.webp",
+      "/cars/KIA/CARENS CLAVIS/carensclaviscarensclavisdashboard.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -534,7 +517,6 @@
   },
   {
     "id": "kia-carnival-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "KIA",
     "model": "CARNIVAL",
     "year": 2021,
@@ -566,7 +548,6 @@
   },
   {
     "id": "kia-clavis-ev-2024-new",
-    "type": "new",
     "brand": "KIA",
     "model": "CLAVIS EV",
     "year": 2024,
@@ -575,11 +556,11 @@
     "transmission": "DCT",
     "color": "Calgary White",
     "images": [
-      "/cars/KIA/CLAVIS%20EV/carens-clavis-ev-exterior-front-view.avif",
-      "/cars/KIA/CLAVIS%20EV/carens-clavis-ev-exterior-left-side-view-2.avif",
-      "/cars/KIA/CLAVIS%20EV/carens-clavis-ev-exterior-rear-view.avif",
-      "/cars/KIA/CLAVIS%20EV/carens-clavis-ev-exterior-right-side-view.avif",
-      "/cars/KIA/CLAVIS%20EV/carens-clavis-ev-interior-dashboard-2.avif"
+      "/cars/KIA/CLAVIS EV/carens-clavis-ev-exterior-front-view.avif",
+      "/cars/KIA/CLAVIS EV/carens-clavis-ev-exterior-left-side-view-2.avif",
+      "/cars/KIA/CLAVIS EV/carens-clavis-ev-exterior-rear-view.avif",
+      "/cars/KIA/CLAVIS EV/carens-clavis-ev-exterior-right-side-view.avif",
+      "/cars/KIA/CLAVIS EV/carens-clavis-ev-interior-dashboard-2.avif"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -597,7 +578,6 @@
   },
   {
     "id": "kia-seltos-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "KIA",
     "model": "SELTOS",
     "year": 2023,
@@ -629,7 +609,6 @@
   },
   {
     "id": "kia-sonet-2024-new",
-    "type": "new",
     "brand": "KIA",
     "model": "SONET",
     "year": 2024,
@@ -660,7 +639,6 @@
   },
   {
     "id": "kia-syros-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "KIA",
     "model": "SYROS",
     "year": 2021,
@@ -692,7 +670,6 @@
   },
   {
     "id": "mahindra-3xo-2024-new",
-    "type": "new",
     "brand": "MAHINDRA",
     "model": "3XO",
     "year": 2024,
@@ -723,7 +700,6 @@
   },
   {
     "id": "mahindra-7xo-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MAHINDRA",
     "model": "7XO",
     "year": 2023,
@@ -755,7 +731,6 @@
   },
   {
     "id": "mahindra-be6-2024-new",
-    "type": "new",
     "brand": "MAHINDRA",
     "model": "BE6",
     "year": 2024,
@@ -784,7 +759,6 @@
   },
   {
     "id": "mahindra-bolero-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MAHINDRA",
     "model": "BOLERO",
     "year": 2021,
@@ -813,7 +787,6 @@
   },
   {
     "id": "mahindra-bolero-neo-2024-new",
-    "type": "new",
     "brand": "MAHINDRA",
     "model": "BOLERO NEO",
     "year": 2024,
@@ -822,8 +795,8 @@
     "transmission": "Automatic",
     "color": "Fearless Red",
     "images": [
-      "/cars/MAHINDRA/BOLERO%20NEO/boleroneoboleroneorightfrontthreequarter.webp",
-      "/cars/MAHINDRA/BOLERO%20NEO/boleroneoboleroneodashboard.webp"
+      "/cars/MAHINDRA/BOLERO NEO/boleroneoboleroneorightfrontthreequarter.webp",
+      "/cars/MAHINDRA/BOLERO NEO/boleroneoboleroneodashboard.webp"
     ],
     "features": [
       "Connected car technology",
@@ -841,7 +814,6 @@
   },
   {
     "id": "mahindra-scorpio-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MAHINDRA",
     "model": "SCORPIO",
     "year": 2023,
@@ -873,7 +845,6 @@
   },
   {
     "id": "mahindra-scorpio-n-2024-new",
-    "type": "new",
     "brand": "MAHINDRA",
     "model": "SCORPIO N",
     "year": 2024,
@@ -882,7 +853,7 @@
     "transmission": "DCT",
     "color": "Oxford Blue",
     "images": [
-      "/cars/MAHINDRA/SCORPIO%20N/scorpionscorpionleftfrontthreequarter.webp"
+      "/cars/MAHINDRA/SCORPIO N/scorpionscorpionleftfrontthreequarter.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -900,7 +871,6 @@
   },
   {
     "id": "mahindra-thar-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MAHINDRA",
     "model": "THAR",
     "year": 2021,
@@ -929,7 +899,6 @@
   },
   {
     "id": "mahindra-thar-roxx-2024-new",
-    "type": "new",
     "brand": "MAHINDRA",
     "model": "THAR ROXX",
     "year": 2024,
@@ -938,11 +907,11 @@
     "transmission": "Manual",
     "color": "Calgary White",
     "images": [
-      "/cars/MAHINDRA/THAR%20ROXX/tharroxxtharroxxfrontview.webp",
-      "/cars/MAHINDRA/THAR%20ROXX/tharroxxtharroxxleftsideview.webp",
-      "/cars/MAHINDRA/THAR%20ROXX/tharroxxtharroxxrearview.webp",
-      "/cars/MAHINDRA/THAR%20ROXX/tharroxxtharroxxrightsideview.webp",
-      "/cars/MAHINDRA/THAR%20ROXX/tharroxxtharroxxdashboard.webp"
+      "/cars/MAHINDRA/THAR ROXX/tharroxxtharroxxfrontview.webp",
+      "/cars/MAHINDRA/THAR ROXX/tharroxxtharroxxleftsideview.webp",
+      "/cars/MAHINDRA/THAR ROXX/tharroxxtharroxxrearview.webp",
+      "/cars/MAHINDRA/THAR ROXX/tharroxxtharroxxrightsideview.webp",
+      "/cars/MAHINDRA/THAR ROXX/tharroxxtharroxxdashboard.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -960,7 +929,6 @@
   },
   {
     "id": "mahindra-xev-9s-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MAHINDRA",
     "model": "XEV 9S",
     "year": 2023,
@@ -969,10 +937,10 @@
     "transmission": "Automatic",
     "color": "Imperial Blue",
     "images": [
-      "/cars/MAHINDRA/XEV%209S/xev9sxev9sleftfrontthreequarter.webp",
-      "/cars/MAHINDRA/XEV%209S/xev9smahindraxevsrearview.webp",
-      "/cars/MAHINDRA/XEV%209S/xev9sxev9srightsideview.webp",
-      "/cars/MAHINDRA/XEV%209S/xev9smahindraxevsdashboard.webp"
+      "/cars/MAHINDRA/XEV 9S/xev9sxev9sleftfrontthreequarter.webp",
+      "/cars/MAHINDRA/XEV 9S/xev9smahindraxevsrearview.webp",
+      "/cars/MAHINDRA/XEV 9S/xev9sxev9srightsideview.webp",
+      "/cars/MAHINDRA/XEV 9S/xev9smahindraxevsdashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -991,7 +959,6 @@
   },
   {
     "id": "mahindra-xev9-2024-new",
-    "type": "new",
     "brand": "MAHINDRA",
     "model": "XEV9",
     "year": 2024,
@@ -1021,7 +988,6 @@
   },
   {
     "id": "mahindra-xuv-400-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MAHINDRA",
     "model": "XUV 400",
     "year": 2021,
@@ -1030,11 +996,11 @@
     "transmission": "DCT",
     "color": "Starry Black",
     "images": [
-      "/cars/MAHINDRA/XUV%20400/xuv400xuv400frontview.webp",
-      "/cars/MAHINDRA/XUV%20400/xuv400mahindraxuv400leftsideview9.webp",
-      "/cars/MAHINDRA/XUV%20400/xuv400mahindraxuv400rearview5.webp",
-      "/cars/MAHINDRA/XUV%20400/xuv400mahindraxuv400rightsideview3.webp",
-      "/cars/MAHINDRA/XUV%20400/xuv400mahindraxuv400dashboard59.webp"
+      "/cars/MAHINDRA/XUV 400/xuv400xuv400frontview.webp",
+      "/cars/MAHINDRA/XUV 400/xuv400mahindraxuv400leftsideview9.webp",
+      "/cars/MAHINDRA/XUV 400/xuv400mahindraxuv400rearview5.webp",
+      "/cars/MAHINDRA/XUV 400/xuv400mahindraxuv400rightsideview3.webp",
+      "/cars/MAHINDRA/XUV 400/xuv400mahindraxuv400dashboard59.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1053,7 +1019,6 @@
   },
   {
     "id": "maruti-suzuki-alto-k10-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "ALTO K10",
     "year": 2024,
@@ -1062,11 +1027,11 @@
     "transmission": "AMT",
     "color": "Silver Metallic",
     "images": [
-      "/cars/MARUTI%20SUZUKI/ALTO%20K10/altok10marutisuzukialtok10frontview2.webp",
-      "/cars/MARUTI%20SUZUKI/ALTO%20K10/altok10marutisuzukialtok10leftsideview0.webp",
-      "/cars/MARUTI%20SUZUKI/ALTO%20K10/altok10marutisuzukialtok10rearview4.webp",
-      "/cars/MARUTI%20SUZUKI/ALTO%20K10/altok10marutisuzukialtok10rightsideview6.webp",
-      "/cars/MARUTI%20SUZUKI/ALTO%20K10/altok10marutisuzukialtok10dashboard18.webp"
+      "/cars/MARUTI SUZUKI/ALTO K10/altok10marutisuzukialtok10frontview2.webp",
+      "/cars/MARUTI SUZUKI/ALTO K10/altok10marutisuzukialtok10leftsideview0.webp",
+      "/cars/MARUTI SUZUKI/ALTO K10/altok10marutisuzukialtok10rearview4.webp",
+      "/cars/MARUTI SUZUKI/ALTO K10/altok10marutisuzukialtok10rightsideview6.webp",
+      "/cars/MARUTI SUZUKI/ALTO K10/altok10marutisuzukialtok10dashboard18.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -1084,7 +1049,6 @@
   },
   {
     "id": "maruti-suzuki-baleno-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "BALENO",
     "year": 2023,
@@ -1093,11 +1057,11 @@
     "transmission": "Manual",
     "color": "Lunar Silver Metallic",
     "images": [
-      "/cars/MARUTI%20SUZUKI/BALENO/balenomarutisuzukibalenorightfrontthreequarter.webp",
-      "/cars/MARUTI%20SUZUKI/BALENO/balenobalenoleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/BALENO/balenobalenorearview.webp",
-      "/cars/MARUTI%20SUZUKI/BALENO/balenomarutisuzukibalenorightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/BALENO/balenomarutisuzukibalenodashboard.webp"
+      "/cars/MARUTI SUZUKI/BALENO/balenomarutisuzukibalenorightfrontthreequarter.webp",
+      "/cars/MARUTI SUZUKI/BALENO/balenobalenoleftsideview.webp",
+      "/cars/MARUTI SUZUKI/BALENO/balenobalenorearview.webp",
+      "/cars/MARUTI SUZUKI/BALENO/balenomarutisuzukibalenorightsideview.webp",
+      "/cars/MARUTI SUZUKI/BALENO/balenomarutisuzukibalenodashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1116,7 +1080,6 @@
   },
   {
     "id": "maruti-suzuki-brezza-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "BREZZA",
     "year": 2024,
@@ -1125,11 +1088,11 @@
     "transmission": "Automatic",
     "color": "Pearl Arctic White",
     "images": [
-      "/cars/MARUTI%20SUZUKI/BREZZA/brezza-exterior-front-view.avif",
-      "/cars/MARUTI%20SUZUKI/BREZZA/brezza-exterior-left-side-view.avif",
-      "/cars/MARUTI%20SUZUKI/BREZZA/brezza-exterior-rear-view.avif",
-      "/cars/MARUTI%20SUZUKI/BREZZA/brezza-exterior-right-side-view.avif",
-      "/cars/MARUTI%20SUZUKI/BREZZA/brezza-interior-dashboard-15.avif"
+      "/cars/MARUTI SUZUKI/BREZZA/brezza-exterior-front-view.avif",
+      "/cars/MARUTI SUZUKI/BREZZA/brezza-exterior-left-side-view.avif",
+      "/cars/MARUTI SUZUKI/BREZZA/brezza-exterior-rear-view.avif",
+      "/cars/MARUTI SUZUKI/BREZZA/brezza-exterior-right-side-view.avif",
+      "/cars/MARUTI SUZUKI/BREZZA/brezza-interior-dashboard-15.avif"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -1147,7 +1110,6 @@
   },
   {
     "id": "maruti-suzuki-celerio-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "CELERIO",
     "year": 2021,
@@ -1156,11 +1118,11 @@
     "transmission": "CVT",
     "color": "Abyss Black Pearl",
     "images": [
-      "/cars/MARUTI%20SUZUKI/CELERIO/celeriomarutisuzukiceleriofrontview32.webp",
-      "/cars/MARUTI%20SUZUKI/CELERIO/celeriomarutisuzukicelerioleftsideview11.webp",
-      "/cars/MARUTI%20SUZUKI/CELERIO/celeriomarutisuzukiceleriorearview21.webp",
-      "/cars/MARUTI%20SUZUKI/CELERIO/celeriomarutisuzukiceleriorightsideview23.webp",
-      "/cars/MARUTI%20SUZUKI/CELERIO/celeriomarutisuzukiceleriodashboard14.webp"
+      "/cars/MARUTI SUZUKI/CELERIO/celeriomarutisuzukiceleriofrontview32.webp",
+      "/cars/MARUTI SUZUKI/CELERIO/celeriomarutisuzukicelerioleftsideview11.webp",
+      "/cars/MARUTI SUZUKI/CELERIO/celeriomarutisuzukiceleriorearview21.webp",
+      "/cars/MARUTI SUZUKI/CELERIO/celeriomarutisuzukiceleriorightsideview23.webp",
+      "/cars/MARUTI SUZUKI/CELERIO/celeriomarutisuzukiceleriodashboard14.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1179,7 +1141,6 @@
   },
   {
     "id": "maruti-suzuki-dzire-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "DZIRE",
     "year": 2024,
@@ -1188,11 +1149,11 @@
     "transmission": "DCT",
     "color": "Fearless Red",
     "images": [
-      "/cars/MARUTI%20SUZUKI/DZIRE/dziredzirefrontview.webp",
-      "/cars/MARUTI%20SUZUKI/DZIRE/dziredzireleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/DZIRE/dziredzirerearview.webp",
-      "/cars/MARUTI%20SUZUKI/DZIRE/dziremarutisuzukidzirerightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/DZIRE/dziremarutisuzukidziredashboard.webp"
+      "/cars/MARUTI SUZUKI/DZIRE/dziredzirefrontview.webp",
+      "/cars/MARUTI SUZUKI/DZIRE/dziredzireleftsideview.webp",
+      "/cars/MARUTI SUZUKI/DZIRE/dziredzirerearview.webp",
+      "/cars/MARUTI SUZUKI/DZIRE/dziremarutisuzukidzirerightsideview.webp",
+      "/cars/MARUTI SUZUKI/DZIRE/dziremarutisuzukidziredashboard.webp"
     ],
     "features": [
       "Connected car technology",
@@ -1210,7 +1171,6 @@
   },
   {
     "id": "maruti-suzuki-eeco-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "EECO",
     "year": 2023,
@@ -1219,9 +1179,9 @@
     "transmission": "AMT",
     "color": "Radiant Silver",
     "images": [
-      "/cars/MARUTI%20SUZUKI/EECO/eecoeecorightfrontthreequarter.webp",
-      "/cars/MARUTI%20SUZUKI/EECO/eecomarutisuzukieecorightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/EECO/eecoeecobootspace.webp"
+      "/cars/MARUTI SUZUKI/EECO/eecoeecorightfrontthreequarter.webp",
+      "/cars/MARUTI SUZUKI/EECO/eecomarutisuzukieecorightsideview.webp",
+      "/cars/MARUTI SUZUKI/EECO/eecoeecobootspace.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1240,7 +1200,6 @@
   },
   {
     "id": "maruti-suzuki-ertiga-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "ERTIGA",
     "year": 2024,
@@ -1249,11 +1208,11 @@
     "transmission": "Manual",
     "color": "Oxford Blue",
     "images": [
-      "/cars/MARUTI%20SUZUKI/ERTIGA/ertigaertigafrontview.webp",
-      "/cars/MARUTI%20SUZUKI/ERTIGA/ertigaertigaleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/ERTIGA/ertigaertigarearview.webp",
-      "/cars/MARUTI%20SUZUKI/ERTIGA/ertigamarutisuzukiertigarightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/ERTIGA/ertigamarutisuzukiertigadashboard.webp"
+      "/cars/MARUTI SUZUKI/ERTIGA/ertigaertigafrontview.webp",
+      "/cars/MARUTI SUZUKI/ERTIGA/ertigaertigaleftsideview.webp",
+      "/cars/MARUTI SUZUKI/ERTIGA/ertigaertigarearview.webp",
+      "/cars/MARUTI SUZUKI/ERTIGA/ertigamarutisuzukiertigarightsideview.webp",
+      "/cars/MARUTI SUZUKI/ERTIGA/ertigamarutisuzukiertigadashboard.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -1271,7 +1230,6 @@
   },
   {
     "id": "maruti-suzuki-fronx-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "FRONX",
     "year": 2021,
@@ -1280,11 +1238,11 @@
     "transmission": "Automatic",
     "color": "Polar White",
     "images": [
-      "/cars/MARUTI%20SUZUKI/FRONX/fronxfronxfrontview.webp",
-      "/cars/MARUTI%20SUZUKI/FRONX/fronxfronxleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/FRONX/fronxfronxrearview.webp",
-      "/cars/MARUTI%20SUZUKI/FRONX/fronxmarutisuzukifronxrightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/FRONX/fronxmarutisuzukifronxdashboard.webp"
+      "/cars/MARUTI SUZUKI/FRONX/fronxfronxfrontview.webp",
+      "/cars/MARUTI SUZUKI/FRONX/fronxfronxleftsideview.webp",
+      "/cars/MARUTI SUZUKI/FRONX/fronxfronxrearview.webp",
+      "/cars/MARUTI SUZUKI/FRONX/fronxmarutisuzukifronxrightsideview.webp",
+      "/cars/MARUTI SUZUKI/FRONX/fronxmarutisuzukifronxdashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1303,7 +1261,6 @@
   },
   {
     "id": "maruti-suzuki-grand-vitara-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "GRAND VITARA",
     "year": 2024,
@@ -1312,11 +1269,11 @@
     "transmission": "CVT",
     "color": "Calgary White",
     "images": [
-      "/cars/MARUTI%20SUZUKI/GRAND%20VITARA/grandvitaragrandvitarafrontview.webp",
-      "/cars/MARUTI%20SUZUKI/GRAND%20VITARA/grandvitaragrandvitaraleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/GRAND%20VITARA/grandvitaragrandvitararearview.webp",
-      "/cars/MARUTI%20SUZUKI/GRAND%20VITARA/grandvitaramarutisuzukigrandvitararightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/GRAND%20VITARA/grandvitaramarutisuzukigrandvitaradashboard.webp"
+      "/cars/MARUTI SUZUKI/GRAND VITARA/grandvitaragrandvitarafrontview.webp",
+      "/cars/MARUTI SUZUKI/GRAND VITARA/grandvitaragrandvitaraleftsideview.webp",
+      "/cars/MARUTI SUZUKI/GRAND VITARA/grandvitaragrandvitararearview.webp",
+      "/cars/MARUTI SUZUKI/GRAND VITARA/grandvitaramarutisuzukigrandvitararightsideview.webp",
+      "/cars/MARUTI SUZUKI/GRAND VITARA/grandvitaramarutisuzukigrandvitaradashboard.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -1334,7 +1291,6 @@
   },
   {
     "id": "maruti-suzuki-invicto-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "INVICTO",
     "year": 2023,
@@ -1343,11 +1299,11 @@
     "transmission": "DCT",
     "color": "Imperial Blue",
     "images": [
-      "/cars/MARUTI%20SUZUKI/INVICTO/invictomarutisuzukiinvictofrontview.webp",
-      "/cars/MARUTI%20SUZUKI/INVICTO/invictomarutisuzukiinvictoleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/INVICTO/invictoinvictorearview.webp",
-      "/cars/MARUTI%20SUZUKI/INVICTO/invictoinvictorightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/INVICTO/invictomarutisuzukiinvictodashboard.webp"
+      "/cars/MARUTI SUZUKI/INVICTO/invictomarutisuzukiinvictofrontview.webp",
+      "/cars/MARUTI SUZUKI/INVICTO/invictomarutisuzukiinvictoleftsideview.webp",
+      "/cars/MARUTI SUZUKI/INVICTO/invictoinvictorearview.webp",
+      "/cars/MARUTI SUZUKI/INVICTO/invictoinvictorightsideview.webp",
+      "/cars/MARUTI SUZUKI/INVICTO/invictomarutisuzukiinvictodashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1366,7 +1322,6 @@
   },
   {
     "id": "maruti-suzuki-jimny-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "JIMNY",
     "year": 2024,
@@ -1375,11 +1330,11 @@
     "transmission": "AMT",
     "color": "Auburn Red Pearl",
     "images": [
-      "/cars/MARUTI%20SUZUKI/JIMNY/jimnymarutisuzukijimnyfrontview11.webp",
-      "/cars/MARUTI%20SUZUKI/JIMNY/jimnyjimnyleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/JIMNY/jimnymarutisuzukijimnyrearview9.webp",
-      "/cars/MARUTI%20SUZUKI/JIMNY/jimnymarutisuzukijimnyrightsideview15.webp",
-      "/cars/MARUTI%20SUZUKI/JIMNY/jimnymarutisuzukijimnydashboard1.webp"
+      "/cars/MARUTI SUZUKI/JIMNY/jimnymarutisuzukijimnyfrontview11.webp",
+      "/cars/MARUTI SUZUKI/JIMNY/jimnyjimnyleftsideview.webp",
+      "/cars/MARUTI SUZUKI/JIMNY/jimnymarutisuzukijimnyrearview9.webp",
+      "/cars/MARUTI SUZUKI/JIMNY/jimnymarutisuzukijimnyrightsideview15.webp",
+      "/cars/MARUTI SUZUKI/JIMNY/jimnymarutisuzukijimnydashboard1.webp"
     ],
     "features": [
       "Connected car technology",
@@ -1397,7 +1352,6 @@
   },
   {
     "id": "maruti-suzuki-swift-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "SWIFT",
     "year": 2021,
@@ -1406,11 +1360,11 @@
     "transmission": "Manual",
     "color": "Starry Black",
     "images": [
-      "/cars/MARUTI%20SUZUKI/SWIFT/swiftswiftfrontview.webp",
-      "/cars/MARUTI%20SUZUKI/SWIFT/swiftswiftleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/SWIFT/swiftswiftrearview.webp",
-      "/cars/MARUTI%20SUZUKI/SWIFT/swiftmarutisuzukiswiftrightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/SWIFT/swiftmarutisuzukiswiftsteeringwheel.webp"
+      "/cars/MARUTI SUZUKI/SWIFT/swiftswiftfrontview.webp",
+      "/cars/MARUTI SUZUKI/SWIFT/swiftswiftleftsideview.webp",
+      "/cars/MARUTI SUZUKI/SWIFT/swiftswiftrearview.webp",
+      "/cars/MARUTI SUZUKI/SWIFT/swiftmarutisuzukiswiftrightsideview.webp",
+      "/cars/MARUTI SUZUKI/SWIFT/swiftmarutisuzukiswiftsteeringwheel.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1429,7 +1383,6 @@
   },
   {
     "id": "maruti-suzuki-victoris-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "VICTORIS",
     "year": 2024,
@@ -1438,11 +1391,11 @@
     "transmission": "Automatic",
     "color": "Silver Metallic",
     "images": [
-      "/cars/MARUTI%20SUZUKI/VICTORIS/victorisvictorisfrontview.webp",
-      "/cars/MARUTI%20SUZUKI/VICTORIS/victorismarutisuzukivictorisleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/VICTORIS/victorisvictorisrearview.webp",
-      "/cars/MARUTI%20SUZUKI/VICTORIS/victorismarutisuzukivictorisrightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/VICTORIS/victorismarutisuzukivictorisdashboard.webp"
+      "/cars/MARUTI SUZUKI/VICTORIS/victorisvictorisfrontview.webp",
+      "/cars/MARUTI SUZUKI/VICTORIS/victorismarutisuzukivictorisleftsideview.webp",
+      "/cars/MARUTI SUZUKI/VICTORIS/victorisvictorisrearview.webp",
+      "/cars/MARUTI SUZUKI/VICTORIS/victorismarutisuzukivictorisrightsideview.webp",
+      "/cars/MARUTI SUZUKI/VICTORIS/victorismarutisuzukivictorisdashboard.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -1460,7 +1413,6 @@
   },
   {
     "id": "maruti-suzuki-wagon-r-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MARUTI SUZUKI",
     "model": "WAGON R",
     "year": 2023,
@@ -1469,11 +1421,11 @@
     "transmission": "CVT",
     "color": "Lunar Silver Metallic",
     "images": [
-      "/cars/MARUTI%20SUZUKI/WAGON%20R/wagonrwagonrfrontview.webp",
-      "/cars/MARUTI%20SUZUKI/WAGON%20R/wagonrwagonrleftsideview.webp",
-      "/cars/MARUTI%20SUZUKI/WAGON%20R/wagonrwagonrrearview.webp",
-      "/cars/MARUTI%20SUZUKI/WAGON%20R/wagonrmarutisuzukiwagonrrightsideview.webp",
-      "/cars/MARUTI%20SUZUKI/WAGON%20R/wagonrwagonrdashboard.webp"
+      "/cars/MARUTI SUZUKI/WAGON R/wagonrwagonrfrontview.webp",
+      "/cars/MARUTI SUZUKI/WAGON R/wagonrwagonrleftsideview.webp",
+      "/cars/MARUTI SUZUKI/WAGON R/wagonrwagonrrearview.webp",
+      "/cars/MARUTI SUZUKI/WAGON R/wagonrmarutisuzukiwagonrrightsideview.webp",
+      "/cars/MARUTI SUZUKI/WAGON R/wagonrwagonrdashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -1492,7 +1444,6 @@
   },
   {
     "id": "maruti-suzuki-xl6-2024-new",
-    "type": "new",
     "brand": "MARUTI SUZUKI",
     "model": "XL6",
     "year": 2024,
@@ -1501,11 +1452,11 @@
     "transmission": "DCT",
     "color": "Pearl Arctic White",
     "images": [
-      "/cars/MARUTI%20SUZUKI/XL6/xl6xl6frontview.webp",
-      "/cars/MARUTI%20SUZUKI/XL6/xl6marutisuzukixl6leftsideview25.webp",
-      "/cars/MARUTI%20SUZUKI/XL6/xl6marutisuzukixl6leftsideview7.webp",
-      "/cars/MARUTI%20SUZUKI/XL6/xl6marutisuzukixl6rearview24.webp",
-      "/cars/MARUTI%20SUZUKI/XL6/xl6xl6dashboard.webp"
+      "/cars/MARUTI SUZUKI/XL6/xl6xl6frontview.webp",
+      "/cars/MARUTI SUZUKI/XL6/xl6marutisuzukixl6leftsideview25.webp",
+      "/cars/MARUTI SUZUKI/XL6/xl6marutisuzukixl6leftsideview7.webp",
+      "/cars/MARUTI SUZUKI/XL6/xl6marutisuzukixl6rearview24.webp",
+      "/cars/MARUTI SUZUKI/XL6/xl6xl6dashboard.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -1523,7 +1474,6 @@
   },
   {
     "id": "mg-astor-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MG",
     "model": "ASTOR",
     "year": 2021,
@@ -1554,7 +1504,6 @@
   },
   {
     "id": "mg-astor-ev-2024-new",
-    "type": "new",
     "brand": "MG",
     "model": "ASTOR EV",
     "year": 2024,
@@ -1563,11 +1512,11 @@
     "transmission": "Manual",
     "color": "Fearless Red",
     "images": [
-      "/cars/MG/ASTOR%20EV/zsevzsevfrontview.webp",
-      "/cars/MG/ASTOR%20EV/zsevzsevleftsideview.webp",
-      "/cars/MG/ASTOR%20EV/zsevzsevrearview.webp",
-      "/cars/MG/ASTOR%20EV/zsevzsevrightsideview.webp",
-      "/cars/MG/ASTOR%20EV/zsevzsevdashboard.webp"
+      "/cars/MG/ASTOR EV/zsevzsevfrontview.webp",
+      "/cars/MG/ASTOR EV/zsevzsevleftsideview.webp",
+      "/cars/MG/ASTOR EV/zsevzsevrearview.webp",
+      "/cars/MG/ASTOR EV/zsevzsevrightsideview.webp",
+      "/cars/MG/ASTOR EV/zsevzsevdashboard.webp"
     ],
     "features": [
       "Connected car technology",
@@ -1585,7 +1534,6 @@
   },
   {
     "id": "mg-comet-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MG",
     "model": "COMET",
     "year": 2023,
@@ -1617,7 +1565,6 @@
   },
   {
     "id": "mg-cybster-2024-new",
-    "type": "new",
     "brand": "MG",
     "model": "CYBSTER",
     "year": 2024,
@@ -1647,7 +1594,6 @@
   },
   {
     "id": "mg-gloster-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "MG",
     "model": "GLOSTER",
     "year": 2021,
@@ -1679,7 +1625,6 @@
   },
   {
     "id": "mg-hector-plus-2024-new",
-    "type": "new",
     "brand": "MG",
     "model": "HECTOR PLUS",
     "year": 2024,
@@ -1688,10 +1633,10 @@
     "transmission": "AMT",
     "color": "Calgary White",
     "images": [
-      "/cars/MG/HECTOR%20PLUS/hectorplushectorplusfrontview.webp",
-      "/cars/MG/HECTOR%20PLUS/hectorplushectorplusleftfrontthreequarter.webp",
-      "/cars/MG/HECTOR%20PLUS/hectorplushectorplusrightsideview.webp",
-      "/cars/MG/HECTOR%20PLUS/hectorplushectorplusdashboard.webp"
+      "/cars/MG/HECTOR PLUS/hectorplushectorplusfrontview.webp",
+      "/cars/MG/HECTOR PLUS/hectorplushectorplusleftfrontthreequarter.webp",
+      "/cars/MG/HECTOR PLUS/hectorplushectorplusrightsideview.webp",
+      "/cars/MG/HECTOR PLUS/hectorplushectorplusdashboard.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -1709,7 +1654,6 @@
   },
   {
     "id": "mg-m9-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "MG",
     "model": "M9",
     "year": 2023,
@@ -1740,7 +1684,6 @@
   },
   {
     "id": "mg-windsor-2024-new",
-    "type": "new",
     "brand": "MG",
     "model": "WINDSOR",
     "year": 2024,
@@ -1771,7 +1714,6 @@
   },
   {
     "id": "renault-kiger-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "RENAULT",
     "model": "KIGER",
     "year": 2021,
@@ -1803,7 +1745,6 @@
   },
   {
     "id": "renault-kwid-2024-new",
-    "type": "new",
     "brand": "RENAULT",
     "model": "KWID",
     "year": 2024,
@@ -1834,7 +1775,6 @@
   },
   {
     "id": "renault-triber-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "RENAULT",
     "model": "TRIBER",
     "year": 2023,
@@ -1866,7 +1806,6 @@
   },
   {
     "id": "skoda-kodiaq-2024-new",
-    "type": "new",
     "brand": "SKODA",
     "model": "KODIAQ",
     "year": 2024,
@@ -1897,7 +1836,6 @@
   },
   {
     "id": "skoda-kushaq-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "SKODA",
     "model": "KUSHAQ",
     "year": 2021,
@@ -1928,7 +1866,6 @@
   },
   {
     "id": "skoda-kylaq-2024-new",
-    "type": "new",
     "brand": "SKODA",
     "model": "KYLAQ",
     "year": 2024,
@@ -1959,7 +1896,6 @@
   },
   {
     "id": "skoda-slavia-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "SKODA",
     "model": "SLAVIA",
     "year": 2023,
@@ -1990,7 +1926,6 @@
   },
   {
     "id": "tata-altroz-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "ALTROZ",
     "year": 2024,
@@ -2021,7 +1956,6 @@
   },
   {
     "id": "tata-curvv-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "CURVV",
     "year": 2021,
@@ -2053,7 +1987,6 @@
   },
   {
     "id": "tata-curvv-ev-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "CURVV EV",
     "year": 2024,
@@ -2062,11 +1995,11 @@
     "transmission": "Automatic",
     "color": "Calgary White",
     "images": [
-      "/cars/TATA/CURVV%20EV/curvvevtatacurvvevfrontview1.webp",
-      "/cars/TATA/CURVV%20EV/curvvevtatacurvvevleftsideview24.webp",
-      "/cars/TATA/CURVV%20EV/curvvevtatacurvvevrearview20.webp",
-      "/cars/TATA/CURVV%20EV/curvvevtatacurvvevrightsideview.webp",
-      "/cars/TATA/CURVV%20EV/curvvevtatacurvvevdashboard17.webp"
+      "/cars/TATA/CURVV EV/curvvevtatacurvvevfrontview1.webp",
+      "/cars/TATA/CURVV EV/curvvevtatacurvvevleftsideview24.webp",
+      "/cars/TATA/CURVV EV/curvvevtatacurvvevrearview20.webp",
+      "/cars/TATA/CURVV EV/curvvevtatacurvvevrightsideview.webp",
+      "/cars/TATA/CURVV EV/curvvevtatacurvvevdashboard17.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -2084,7 +2017,6 @@
   },
   {
     "id": "tata-harrier-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "HARRIER",
     "year": 2023,
@@ -2116,7 +2048,6 @@
   },
   {
     "id": "tata-harrier-ev-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "HARRIER EV",
     "year": 2024,
@@ -2125,11 +2056,11 @@
     "transmission": "DCT",
     "color": "Auburn Red Pearl",
     "images": [
-      "/cars/TATA/HARRIER%20EV/harrier-ev-exterior-front-view.avif",
-      "/cars/TATA/HARRIER%20EV/harrier-ev-exterior-left-side-view-2.avif",
-      "/cars/TATA/HARRIER%20EV/harrier-ev-exterior-left-rear-three-quarter-2.avif",
-      "/cars/TATA/HARRIER%20EV/harrier-ev-exterior-rear-view-2.avif",
-      "/cars/TATA/HARRIER%20EV/harrier-ev-interior-dashboard-9.avif"
+      "/cars/TATA/HARRIER EV/harrier-ev-exterior-front-view.avif",
+      "/cars/TATA/HARRIER EV/harrier-ev-exterior-left-side-view-2.avif",
+      "/cars/TATA/HARRIER EV/harrier-ev-exterior-left-rear-three-quarter-2.avif",
+      "/cars/TATA/HARRIER EV/harrier-ev-exterior-rear-view-2.avif",
+      "/cars/TATA/HARRIER EV/harrier-ev-interior-dashboard-9.avif"
     ],
     "features": [
       "Connected car technology",
@@ -2147,7 +2078,6 @@
   },
   {
     "id": "tata-nexon-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "NEXON",
     "year": 2021,
@@ -2179,7 +2109,6 @@
   },
   {
     "id": "tata-nexon-ev-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "NEXON EV",
     "year": 2024,
@@ -2188,11 +2117,11 @@
     "transmission": "Manual",
     "color": "Silver Metallic",
     "images": [
-      "/cars/TATA/NEXON%20EV/nexonevnexonevfrontview.webp",
-      "/cars/TATA/NEXON%20EV/nexonevnexonevleftsideview.webp",
-      "/cars/TATA/NEXON%20EV/nexonevnexonevrearview.webp",
-      "/cars/TATA/NEXON%20EV/nexonevtatanexonevfaceliftrightsideview19.webp",
-      "/cars/TATA/NEXON%20EV/nexonevtatanexonevdashboard.webp"
+      "/cars/TATA/NEXON EV/nexonevnexonevfrontview.webp",
+      "/cars/TATA/NEXON EV/nexonevnexonevleftsideview.webp",
+      "/cars/TATA/NEXON EV/nexonevnexonevrearview.webp",
+      "/cars/TATA/NEXON EV/nexonevtatanexonevfaceliftrightsideview19.webp",
+      "/cars/TATA/NEXON EV/nexonevtatanexonevdashboard.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -2210,7 +2139,6 @@
   },
   {
     "id": "tata-punch-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "PUNCH",
     "year": 2023,
@@ -2242,7 +2170,6 @@
   },
   {
     "id": "tata-punch-ev-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "PUNCH EV",
     "year": 2024,
@@ -2251,11 +2178,11 @@
     "transmission": "CVT",
     "color": "Pearl Arctic White",
     "images": [
-      "/cars/TATA/PUNCH%20EV/punchevpunchevfrontview.webp",
-      "/cars/TATA/PUNCH%20EV/punchevpunchevleftsideview.webp",
-      "/cars/TATA/PUNCH%20EV/punchevpunchevrearview.webp",
-      "/cars/TATA/PUNCH%20EV/punchevtatapunchevrightsideview.webp",
-      "/cars/TATA/PUNCH%20EV/punchevtatapunchevdashboard.webp"
+      "/cars/TATA/PUNCH EV/punchevpunchevfrontview.webp",
+      "/cars/TATA/PUNCH EV/punchevpunchevleftsideview.webp",
+      "/cars/TATA/PUNCH EV/punchevpunchevrearview.webp",
+      "/cars/TATA/PUNCH EV/punchevtatapunchevrightsideview.webp",
+      "/cars/TATA/PUNCH EV/punchevtatapunchevdashboard.webp"
     ],
     "features": [
       "SmartPlay infotainment with touchscreen",
@@ -2273,7 +2200,6 @@
   },
   {
     "id": "tata-safari-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "SAFARI",
     "year": 2021,
@@ -2305,7 +2231,6 @@
   },
   {
     "id": "tata-sierra-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "SIERRA",
     "year": 2024,
@@ -2336,7 +2261,6 @@
   },
   {
     "id": "tata-tiago-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "TIAGO",
     "year": 2023,
@@ -2368,7 +2292,6 @@
   },
   {
     "id": "tata-tiago-ev-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "TIAGO EV",
     "year": 2024,
@@ -2377,11 +2300,11 @@
     "transmission": "Automatic",
     "color": "Oxford Blue",
     "images": [
-      "/cars/TATA/TIAGO%20EV/tiagoevtatatiagoevfrontview25.webp",
-      "/cars/TATA/TIAGO%20EV/tiagoevtatatiagoevleftfrontthreequarter4.webp",
-      "/cars/TATA/TIAGO%20EV/tiagoevtiagoevleftsideview.webp",
-      "/cars/TATA/TIAGO%20EV/tiagoevtatatiagoevrearview.webp",
-      "/cars/TATA/TIAGO%20EV/tiagoevtatatiagoevdashboard12.webp"
+      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevfrontview25.webp",
+      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevleftfrontthreequarter4.webp",
+      "/cars/TATA/TIAGO EV/tiagoevtiagoevleftsideview.webp",
+      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevrearview.webp",
+      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevdashboard12.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -2399,7 +2322,6 @@
   },
   {
     "id": "tata-tiago-nrg-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "TIAGO NRG",
     "year": 2021,
@@ -2408,11 +2330,11 @@
     "transmission": "CVT",
     "color": "Polar White",
     "images": [
-      "/cars/TATA/TIAGO%20NRG/tiagonrgtiagonrgfrontview.webp",
-      "/cars/TATA/TIAGO%20NRG/tiagonrgtiagonrgleftfrontthreequarter.webp",
-      "/cars/TATA/TIAGO%20NRG/tiagonrgtiagonrgleftsideview.webp",
-      "/cars/TATA/TIAGO%20NRG/tiagonrgtiagonrgrearview.webp",
-      "/cars/TATA/TIAGO%20NRG/tiagonrgtiagonrgdashboard.webp"
+      "/cars/TATA/TIAGO NRG/tiagonrgtiagonrgfrontview.webp",
+      "/cars/TATA/TIAGO NRG/tiagonrgtiagonrgleftfrontthreequarter.webp",
+      "/cars/TATA/TIAGO NRG/tiagonrgtiagonrgleftsideview.webp",
+      "/cars/TATA/TIAGO NRG/tiagonrgtiagonrgrearview.webp",
+      "/cars/TATA/TIAGO NRG/tiagonrgtiagonrgdashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -2431,7 +2353,6 @@
   },
   {
     "id": "tata-tigor-2024-new",
-    "type": "new",
     "brand": "TATA",
     "model": "TIGOR",
     "year": 2024,
@@ -2462,7 +2383,6 @@
   },
   {
     "id": "tata-tigor-ev-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "TATA",
     "model": "TIGOR EV",
     "year": 2023,
@@ -2471,9 +2391,9 @@
     "transmission": "AMT",
     "color": "Imperial Blue",
     "images": [
-      "/cars/TATA/TIGOR%20EV/tigorevtatatigorevrightfrontthreequarter.webp",
-      "/cars/TATA/TIGOR%20EV/tigorevtigorevleftsideview.webp",
-      "/cars/TATA/TIGOR%20EV/tigorevtigorevdashboard.webp"
+      "/cars/TATA/TIGOR EV/tigorevtatatigorevrightfrontthreequarter.webp",
+      "/cars/TATA/TIGOR EV/tigorevtigorevleftsideview.webp",
+      "/cars/TATA/TIGOR EV/tigorevtigorevdashboard.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -2492,7 +2412,6 @@
   },
   {
     "id": "toyota-camry-2024-new",
-    "type": "new",
     "brand": "TOYOTA",
     "model": "CAMRY",
     "year": 2024,
@@ -2523,7 +2442,6 @@
   },
   {
     "id": "toyota-fortuner-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TOYOTA",
     "model": "FORTUNER",
     "year": 2021,
@@ -2554,7 +2472,6 @@
   },
   {
     "id": "toyota-fortuner-legender-2024-new",
-    "type": "new",
     "brand": "TOYOTA",
     "model": "FORTUNER LEGENDER",
     "year": 2024,
@@ -2563,11 +2480,11 @@
     "transmission": "CVT",
     "color": "Silver Metallic",
     "images": [
-      "/cars/TOYOTA/FORTUNER%20LEGENDER/fortunerlegenderfortunerlegenderfrontview.webp",
-      "/cars/TOYOTA/FORTUNER%20LEGENDER/fortunerlegenderfortunerlegenderleftsideview.webp",
-      "/cars/TOYOTA/FORTUNER%20LEGENDER/fortunerlegenderfortunerlegenderrearview.webp",
-      "/cars/TOYOTA/FORTUNER%20LEGENDER/fortunerlegenderfortunerlegenderrightsideview.webp",
-      "/cars/TOYOTA/FORTUNER%20LEGENDER/fortunerlegendertoyotafortunerdashboard4.webp"
+      "/cars/TOYOTA/FORTUNER LEGENDER/fortunerlegenderfortunerlegenderfrontview.webp",
+      "/cars/TOYOTA/FORTUNER LEGENDER/fortunerlegenderfortunerlegenderleftsideview.webp",
+      "/cars/TOYOTA/FORTUNER LEGENDER/fortunerlegenderfortunerlegenderrearview.webp",
+      "/cars/TOYOTA/FORTUNER LEGENDER/fortunerlegenderfortunerlegenderrightsideview.webp",
+      "/cars/TOYOTA/FORTUNER LEGENDER/fortunerlegendertoyotafortunerdashboard4.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -2585,7 +2502,6 @@
   },
   {
     "id": "toyota-glanza-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "TOYOTA",
     "model": "GLANZA",
     "year": 2023,
@@ -2617,7 +2533,6 @@
   },
   {
     "id": "toyota-hilux-2024-new",
-    "type": "new",
     "brand": "TOYOTA",
     "model": "HILUX",
     "year": 2024,
@@ -2647,7 +2562,6 @@
   },
   {
     "id": "toyota-hyryder-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TOYOTA",
     "model": "HYRYDER",
     "year": 2021,
@@ -2679,7 +2593,6 @@
   },
   {
     "id": "toyota-innova-crysta-2024-new",
-    "type": "new",
     "brand": "TOYOTA",
     "model": "INNOVA CRYSTA",
     "year": 2024,
@@ -2688,10 +2601,10 @@
     "transmission": "Automatic",
     "color": "Fearless Red",
     "images": [
-      "/cars/TOYOTA/INNOVA%20CRYSTA/innovacrystainnovacrystafrontview.webp",
-      "/cars/TOYOTA/INNOVA%20CRYSTA/innovacrystainnovacrystaleftfrontthreequarter.webp",
-      "/cars/TOYOTA/INNOVA%20CRYSTA/innovacrystainnovacrystarightfrontthreequarter.webp",
-      "/cars/TOYOTA/INNOVA%20CRYSTA/innovacrystainnovacrystadashboard.webp"
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystafrontview.webp",
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystaleftfrontthreequarter.webp",
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystarightfrontthreequarter.webp",
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystadashboard.webp"
     ],
     "features": [
       "Connected car technology",
@@ -2709,7 +2622,6 @@
   },
   {
     "id": "toyota-innova-hycross-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "TOYOTA",
     "model": "INNOVA HYCROSS",
     "year": 2023,
@@ -2718,11 +2630,11 @@
     "transmission": "CVT",
     "color": "Radiant Silver",
     "images": [
-      "/cars/TOYOTA/INNOVA%20HYCROSS/innovahycrosstoyotainnovahycrossfrontview1.webp",
-      "/cars/TOYOTA/INNOVA%20HYCROSS/innovahycrosstoyotainnovahycrossrightfrontthreequarter.webp",
-      "/cars/TOYOTA/INNOVA%20HYCROSS/innovahycrosstoyotainnovahycrossrearview.webp",
-      "/cars/TOYOTA/INNOVA%20HYCROSS/innovahycrosstoyotainnovahycrossrightsideview2.webp",
-      "/cars/TOYOTA/INNOVA%20HYCROSS/innovahycrosstoyotainnovahycrossdashboard2.webp"
+      "/cars/TOYOTA/INNOVA HYCROSS/innovahycrosstoyotainnovahycrossfrontview1.webp",
+      "/cars/TOYOTA/INNOVA HYCROSS/innovahycrosstoyotainnovahycrossrightfrontthreequarter.webp",
+      "/cars/TOYOTA/INNOVA HYCROSS/innovahycrosstoyotainnovahycrossrearview.webp",
+      "/cars/TOYOTA/INNOVA HYCROSS/innovahycrosstoyotainnovahycrossrightsideview2.webp",
+      "/cars/TOYOTA/INNOVA HYCROSS/innovahycrosstoyotainnovahycrossdashboard2.webp"
     ],
     "features": [
       "Dealer maintained",
@@ -2741,7 +2653,6 @@
   },
   {
     "id": "toyota-land-curiser-2024-new",
-    "type": "new",
     "brand": "TOYOTA",
     "model": "LAND CURISER",
     "year": 2024,
@@ -2750,11 +2661,11 @@
     "transmission": "DCT",
     "color": "Oxford Blue",
     "images": [
-      "/cars/TOYOTA/LAND%20CURISER/landcruiserlandcruiserfrontview.webp",
-      "/cars/TOYOTA/LAND%20CURISER/landcruiserlandcruiserleftfrontthreequarter.webp",
-      "/cars/TOYOTA/LAND%20CURISER/landcruiserlandcruiserrightrearthreequarter.webp",
-      "/cars/TOYOTA/LAND%20CURISER/landcruiserlandcruiserrightsideview.webp",
-      "/cars/TOYOTA/LAND%20CURISER/landcruiserlandcruiserdashboard.webp"
+      "/cars/TOYOTA/LAND CURISER/landcruiserlandcruiserfrontview.webp",
+      "/cars/TOYOTA/LAND CURISER/landcruiserlandcruiserleftfrontthreequarter.webp",
+      "/cars/TOYOTA/LAND CURISER/landcruiserlandcruiserrightrearthreequarter.webp",
+      "/cars/TOYOTA/LAND CURISER/landcruiserlandcruiserrightsideview.webp",
+      "/cars/TOYOTA/LAND CURISER/landcruiserlandcruiserdashboard.webp"
     ],
     "features": [
       "Panoramic sunroof",
@@ -2772,7 +2683,6 @@
   },
   {
     "id": "toyota-rumion-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "TOYOTA",
     "model": "RUMION",
     "year": 2021,
@@ -2804,7 +2714,6 @@
   },
   {
     "id": "toyota-taisor-2024-new",
-    "type": "new",
     "brand": "TOYOTA",
     "model": "TAISOR",
     "year": 2024,
@@ -2835,7 +2744,6 @@
   },
   {
     "id": "volkswagen-taigun-2023-pre-owned",
-    "type": "pre-owned",
     "brand": "VOLKSWAGEN",
     "model": "TAIGUN",
     "year": 2023,
@@ -2864,7 +2772,6 @@
   },
   {
     "id": "volkswagen-tayron-n-line-2024-new",
-    "type": "new",
     "brand": "VOLKSWAGEN",
     "model": "TAYRON N LINE",
     "year": 2024,
@@ -2873,11 +2780,11 @@
     "transmission": "CVT",
     "color": "Auburn Red Pearl",
     "images": [
-      "/cars/VOLKSWAGEN/TAYRON%20N%20LINE/tayronrlinetayronrlinefrontview.webp",
-      "/cars/VOLKSWAGEN/TAYRON%20N%20LINE/tayronrlinetayronrlineleftsideview.webp",
-      "/cars/VOLKSWAGEN/TAYRON%20N%20LINE/tayronrlinetayronrlinerearview.webp",
-      "/cars/VOLKSWAGEN/TAYRON%20N%20LINE/tayronrlinetayronrlinerightsideview.webp",
-      "/cars/VOLKSWAGEN/TAYRON%20N%20LINE/tayronrlinetayronrlinedashboard.webp"
+      "/cars/VOLKSWAGEN/TAYRON N LINE/tayronrlinetayronrlinefrontview.webp",
+      "/cars/VOLKSWAGEN/TAYRON N LINE/tayronrlinetayronrlineleftsideview.webp",
+      "/cars/VOLKSWAGEN/TAYRON N LINE/tayronrlinetayronrlinerearview.webp",
+      "/cars/VOLKSWAGEN/TAYRON N LINE/tayronrlinetayronrlinerightsideview.webp",
+      "/cars/VOLKSWAGEN/TAYRON N LINE/tayronrlinetayronrlinedashboard.webp"
     ],
     "features": [
       "Connected car technology",
@@ -2895,7 +2802,6 @@
   },
   {
     "id": "volkswagen-virtus-2021-pre-owned",
-    "type": "pre-owned",
     "brand": "VOLKSWAGEN",
     "model": "VIRTUS",
     "year": 2021,

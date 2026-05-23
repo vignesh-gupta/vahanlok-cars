@@ -10,7 +10,6 @@ interface CarCardProps {
 
 export default function CarCard({ car }: CarCardProps) {
   const mainImage = car.images[0] ?? "/cars/placeholder.jpg";
-  const isNew = car.type === "new";
 
   return (
     <div className="group bg-white border border-gray-100 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200">
@@ -27,14 +26,6 @@ export default function CarCard({ car }: CarCardProps) {
           className="object-cover group-hover:scale-105 transition-transform duration-300"
           loading="lazy"
         />
-        {/* Type badge */}
-        <span
-          className={`absolute top-3 left-3 text-xs font-semibold px-2.5 py-1 rounded-full ${
-            isNew ? "bg-[#D72828] text-white" : "bg-[#1A1A1A] text-white"
-          }`}
-        >
-          {isNew ? "NEW" : "PRE-OWNED"}
-        </span>
       </Link>
 
       {/* Content */}

@@ -1,10 +1,8 @@
-export type CarType = "new" | "pre-owned";
 export type FuelType = "Petrol" | "Diesel" | "CNG" | "Electric" | "Hybrid";
 export type TransmissionType = "Manual" | "Automatic" | "AMT" | "CVT" | "DCT";
 
 export interface Car {
   id: string;
-  type: CarType;
   brand: string;
   model: string;
   year: number;
