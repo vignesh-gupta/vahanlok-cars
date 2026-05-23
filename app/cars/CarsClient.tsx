@@ -1,12 +1,12 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
-import type { Car } from "@/lib/types";
-import FilterBar, { type FilterState } from "@/components/FilterBar";
 import CarCard from "@/components/CarCard";
-import { SlidersHorizontal } from "lucide-react";
+import FilterBar, { type FilterState } from "@/components/FilterBar";
 import { buildWhatsAppUrl } from "@/lib/config";
+import type { Car } from "@/lib/types";
+import { SlidersHorizontal } from "lucide-react";
+import { useRouter, useSearchParams } from "next/navigation";
+import { useEffect, useState } from "react";
 
 interface CarsClientProps {
   initialCars: Car[];
@@ -34,7 +34,6 @@ export default function CarsClient({
   const [inquiryEmail, setInquiryEmail] = useState("");
   const [inquiryDetails, setInquiryDetails] = useState("");
   const [submitted, setSubmitted] = useState(false);
-  const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   // Sync URL to filters on mount
@@ -58,30 +57,6 @@ export default function CarsClient({
     router.replace(query ? `/cars?${query}` : "/cars", { scroll: false });
   }
 
-  async function submitInquiry() {
-    setError(null);
-    if (!inquiryName.trim()) return setError("Please enter your name.");
-    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(inquiryEmail))
-      return setError("Please enter a valid email address.");
-    if (!inquiryDetails.trim())
-      return setError("Please describe your requirement.");
-
-    setSubmitting(true);
-    try {
-      // For now, just simulate a request. Replace with real API call.
-      await new Promise((res) => setTimeout(res, 800));
-      setSubmitted(true);
-      setInquiryName("");
-      setInquiryEmail("");
-      setInquiryDetails("");
-    } catch (err) {
-      console.log("Error submitting inquiry:", err);
-      setError("Failed to submit. Please try again.");
-    } finally {
-      setSubmitting(false);
-    }
-  }
-
   function sendViaWhatsApp() {
     setError(null);
     if (!inquiryName.trim()) return setError("Please enter your name.");
@@ -91,7 +66,7 @@ export default function CarsClient({
       return setError("Please describe your requirement.");
 
     // Build message and open WhatsApp chat
-    const message = `Name: ${inquiryName}\nEmail: ${inquiryEmail}\nRequirement: ${inquiryDetails}`;
+    const message = `Hello Vahanlok team,\nI'm looking to purchase a pre-owned car.\nHere are the details:\nName: ${inquiryName}\nEmail: ${inquiryEmail}\nRequirement: ${inquiryDetails}`;
     const url = buildWhatsAppUrl(message);
     // Open in a new tab/window (WhatsApp Web or app)
     if (typeof window !== "undefined") {
@@ -191,19 +166,10 @@ export default function CarsClient({
                   </button>
                   <button
                     onClick={sendViaWhatsApp}
-                    disabled={submitting}
                     className="text-sm bg-[#25D366] text-white px-4 py-2 rounded-md disabled:opacity-60"
                     type="button"
                   >
                     Send via WhatsApp
-                  </button>
-                  <button
-                    onClick={submitInquiry}
-                    disabled={submitting}
-                    className="text-sm bg-[#D72828] text-white px-4 py-2 rounded-md disabled:opacity-60"
-                    type="button"
-                  >
-                    {submitting ? "Sending..." : "Send Requirement"}
                   </button>
                 </div>
               </div>
