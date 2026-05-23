@@ -71,11 +71,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
                 <MapPin className="h-4 w-4 text-[#D72828] mt-0.5 shrink-0" />
-                <span className="text-gray-400 text-sm">
-                  123 Car Street, Andheri East,
-                  <br />
-                  Mumbai — 400069
-                </span>
+                <span className="text-gray-400 text-sm">Mumbai, MH, India</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-4 w-4 text-[#D72828] shrink-0" />

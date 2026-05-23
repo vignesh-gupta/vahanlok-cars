@@ -1,8 +1,8 @@
 "use client";
 
-import { useState, useRef } from "react";
-import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import { CldImage } from "next-cloudinary";
+import { useRef, useState } from "react";
 
 interface ImageGalleryProps {
   images: string[];
@@ -31,7 +31,8 @@ export default function ImageGallery({ images, carName }: ImageGalleryProps) {
     if (touchStartX.current === null) return;
     const diff = touchStartX.current - e.changedTouches[0].clientX;
     if (Math.abs(diff) > 40) {
-      diff > 0 ? next() : prev();
+      if (diff > 0) next();
+      else prev();
     }
     touchStartX.current = null;
   }
@@ -46,13 +47,13 @@ export default function ImageGallery({ images, carName }: ImageGalleryProps) {
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
       >
-        <Image
+        <CldImage
           src={currentImage}
           alt={`${carName} - photo ${activeIndex + 1}`}
           fill
-          sizes="(max-width: 768px) 100vw, 60vw"
           className="object-cover"
-          priority
+          quality="auto"
+          loading="lazy"
         />
 
         {hasMultiple && (
@@ -103,11 +104,12 @@ export default function ImageGallery({ images, carName }: ImageGalleryProps) {
                   : "border-transparent opacity-60 hover:opacity-90"
               }`}
             >
-              <Image
+              <CldImage
                 src={src}
                 alt={`${carName} thumbnail ${i + 1}`}
                 fill
-                sizes="80px"
+                quality="auto"
+                loading="lazy"
                 className="object-cover"
               />
             </button>

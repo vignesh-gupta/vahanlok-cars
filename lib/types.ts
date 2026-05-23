@@ -13,7 +13,7 @@ export interface Car {
   transmission: TransmissionType;
   kmDriven?: number; // only for pre-owned
   color: string;
-  images: string[]; // paths relative to /public
+  images: string[]; // Cloudinary URLs derived from /cars paths
   features: string[];
   specs: {
     engine?: string;

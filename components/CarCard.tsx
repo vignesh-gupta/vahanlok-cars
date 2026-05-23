@@ -1,8 +1,8 @@
-import Image from "next/image";
-import Link from "next/link";
-import { Fuel, Gauge, Settings2 } from "lucide-react";
 import type { Car } from "@/lib/types";
-import { formatPrice, formatKm } from "@/lib/types";
+import { formatKm, formatPrice } from "@/lib/types";
+import { Fuel, Gauge, Settings2 } from "lucide-react";
+import { CldImage } from "next-cloudinary";
+import Link from "next/link";
 
 interface CarCardProps {
   car: Car;
@@ -15,21 +15,22 @@ export default function CarCard({ car }: CarCardProps) {
   return (
     <div className="group bg-white border border-gray-100 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200">
       {/* Image */}
-      <Link href={`/cars/${car.id}`} className="block relative aspect-video overflow-hidden bg-gray-50">
-        <Image
+      <Link
+        href={`/cars/${car.id}`}
+        className="block relative aspect-video overflow-hidden bg-gray-50"
+      >
+        <CldImage
           src={mainImage}
           alt={`${car.brand} ${car.model}`}
           fill
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          quality="auto"
           className="object-cover group-hover:scale-105 transition-transform duration-300"
           loading="lazy"
         />
         {/* Type badge */}
         <span
           className={`absolute top-3 left-3 text-xs font-semibold px-2.5 py-1 rounded-full ${
-            isNew
-              ? "bg-[#D72828] text-white"
-              : "bg-[#1A1A1A] text-white"
+            isNew ? "bg-[#D72828] text-white" : "bg-[#1A1A1A] text-white"
           }`}
         >
           {isNew ? "NEW" : "PRE-OWNED"}
