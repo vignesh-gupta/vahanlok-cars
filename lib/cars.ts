@@ -10,7 +10,3 @@ export function getAllCars(): Car[] {
 export function getCarById(id: string): Car | undefined {
   return cars.find((car) => car.id === id);
 }
-
-export function getCarsByType(type: "new" | "pre-owned"): Car[] {
-  return cars.filter((car) => car.type === type);
-}

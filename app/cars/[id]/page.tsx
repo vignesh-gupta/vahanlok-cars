@@ -1,12 +1,12 @@
-import { notFound } from "next/navigation";
-import type { Metadata } from "next";
-import { Check, Fuel, Gauge, Settings2, Palette } from "lucide-react";
-import { getCarById, getAllCars } from "@/lib/cars";
-import { formatPrice, formatKm } from "@/lib/types";
 import ImageGallery from "@/components/ImageGallery";
 import LeadForm from "@/components/LeadForm";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import { getAllCars, getCarById } from "@/lib/cars";
+import { formatKm, formatPrice } from "@/lib/types";
+import { Check, Fuel, Gauge, Palette, Settings2 } from "lucide-react";
+import type { Metadata } from "next";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -26,7 +26,7 @@ export async function generateMetadata({
   if (!car) return { title: "Car Not Found — Vahanlok" };
 
   const title = `${car.brand} ${car.model} (${car.year}) — Vahanlok`;
-  const description = `${car.type === "new" ? "Brand new" : "Pre-owned"} ${car.brand} ${car.model} ${car.year} for ${formatPrice(car.price)}. ${car.fuelType} · ${car.transmission}.`;
+  const description = `Brand new ${car.model} ${car.year} for ${formatPrice(car.price)}. ${car.fuelType} · ${car.transmission}.`;
   const image = car.images[0] ? encodeURI(car.images[0]) : "/thumbnail.png";
   const pageUrl = `/cars/${car.id}`;
 
@@ -37,7 +37,7 @@ export async function generateMetadata({
       car.brand,
       car.model,
       `${car.brand} ${car.model}`,
-      `${car.type} car in Mumbai`,
+      `new car in Mumbai`,
       `${car.fuelType} ${car.transmission}`,
       "Vahanlok",
     ],
@@ -71,7 +71,6 @@ export default async function CarDetailPage({ params }: PageProps) {
 
   if (!car) notFound();
 
-  const isNew = car.type === "new";
   const carLabel = `${car.brand} ${car.model}`;
 
   const specs = [
@@ -89,7 +88,7 @@ export default async function CarDetailPage({ params }: PageProps) {
       icon: <Settings2 className="h-4 w-4" />,
     },
     {
-      label: "Kilometres",
+      label: "Kilometers",
       value: car.kmDriven !== undefined ? formatKm(car.kmDriven) : "Brand New",
       icon: <Gauge className="h-4 w-4" />,
     },
@@ -133,14 +132,8 @@ export default async function CarDetailPage({ params }: PageProps) {
               {/* Title row */}
               <div>
                 <div className="flex items-center gap-2 mb-2">
-                  <span
-                    className={`text-xs font-semibold px-2.5 py-1 rounded-full ${
-                      isNew
-                        ? "bg-[#D72828] text-white"
-                        : "bg-[#1A1A1A] text-white"
-                    }`}
-                  >
-                    {isNew ? "NEW" : "PRE-OWNED"}
+                  <span className="text-xs font-semibold px-2.5 py-1 rounded-full bg-[#D72828] text-white">
+                    NEW
                   </span>
                   <span className="text-xs text-gray-500 bg-gray-100 px-2.5 py-1 rounded-full">
                     {car.year}

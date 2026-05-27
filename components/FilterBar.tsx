@@ -2,10 +2,10 @@
 
 import { useState } from "react";
 import { SlidersHorizontal } from "lucide-react";
-import { BRANDS, BUDGET_RANGES, type CarType, type FuelType } from "@/lib/types";
+import { BRANDS, BUDGET_RANGES, type FuelType } from "@/lib/types";
 
 export interface FilterState {
-  type: "all" | CarType;
+  type: "all" | "new" | "pre-owned";
   brand: string;
   fuelType: string;
   budgetMax: number | null;

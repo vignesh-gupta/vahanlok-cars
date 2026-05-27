@@ -25,12 +25,6 @@ export default function Header() {
             >
               Cars
             </Link>
-            <Link
-              href="#contact"
-              className="text-sm font-medium text-gray-600 hover:text-[#1A1A1A] transition-colors"
-            >
-              Contact
-            </Link>
           </nav>
 
           {/* CTA Button */}

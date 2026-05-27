@@ -9,8 +9,6 @@ import { buildWhatsAppUrl } from "@/lib/config";
 
 export default function HomePage() {
   const allCars = getAllCars();
-  const newCars = allCars.filter((c) => c.type === "new");
-  const preOwnedCars = allCars.filter((c) => c.type === "pre-owned");
   const featuredCars = allCars.slice(0, 3);
 
   return (
@@ -70,7 +68,7 @@ export default function HomePage() {
           >
             <div>
               <span className="inline-block bg-[#D72828]/10 text-[#D72828] text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
-                {newCars.length} Cars Available
+                {allCars.length} Cars Available
               </span>
               <h2 className="text-xl font-bold text-[#1A1A1A] mb-1">
                 New Cars
@@ -90,18 +88,18 @@ export default function HomePage() {
             className="group flex items-center justify-between bg-white border border-gray-100 rounded-2xl p-6 shadow-md hover:shadow-lg transition-all hover:border-gray-300"
           >
             <div>
-              <span className="inline-block bg-gray-100 text-gray-700 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
-                {preOwnedCars.length} Cars Available
+              <span className="inline-block bg-gray-200 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
+                CUSTOM REQUEST
               </span>
               <h2 className="text-xl font-bold text-[#1A1A1A] mb-1">
-                Pre-Owned Cars
+                Looking for a Specific Car?
               </h2>
-              <p className="text-gray-500 text-sm">
-                Certified, inspected &amp; great value
+              <p className="text-gray-600 text-sm">
+                Tell us your requirement and we&apos;ll find it for you
               </p>
             </div>
-            <div className="flex items-center gap-2 text-[#1A1A1A] font-medium text-sm group-hover:gap-3 transition-all">
-              Explore
+            <div className="flex items-center gap-2 font-medium text-sm group-hover:gap-3 transition-all">
+              Submit
               <ArrowRight className="h-4 w-4" />
             </div>
           </Link>
