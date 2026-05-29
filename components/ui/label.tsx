@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 
 // ---------------------------------------------------------------------------
 // Label
-// Wraps Radix UI's accessible label primitive with AB Cars typography.
+// Wraps Radix UI's accessible label primitive with vahanlok typography.
 // Note: @radix-ui/react-label is listed in package.json and is installed.
 // CVA is intentionally NOT used here to avoid the missing dependency.
 // ---------------------------------------------------------------------------

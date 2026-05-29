@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils";
 
 // ---------------------------------------------------------------------------
 // Input
-// A clean controlled input field that follows the AB Cars design system.
+// A clean controlled input field that follows the vahanlok design system.
 // Supports all native <input> props plus optional className overrides.
 // ---------------------------------------------------------------------------
 

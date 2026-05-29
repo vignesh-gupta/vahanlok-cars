@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 
 // ---------------------------------------------------------------------------
 // Select — built on @radix-ui/react-select (installed)
-// Styled to match the AB Cars design system.
+// Styled to match the vahanlok design system.
 // ---------------------------------------------------------------------------
 
 const Select = SelectPrimitive.Root;

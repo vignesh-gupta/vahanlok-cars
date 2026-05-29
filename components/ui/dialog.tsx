@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 
 // ---------------------------------------------------------------------------
 // Dialog — built on @radix-ui/react-dialog (installed)
-// Styled to match the AB Cars design system: white bg, charcoal text,
+// Styled to match the vahanlok design system: white bg, charcoal text,
 // red accents. All Radix primitives are re-exported for convenience.
 // ---------------------------------------------------------------------------
 
