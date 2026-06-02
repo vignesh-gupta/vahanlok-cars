@@ -1,4 +1,6 @@
-export type FuelType = "Petrol" | "Diesel" | "CNG" | "Electric" | "Hybrid";
+import { FUEL_TYPES } from "./constant";
+
+export type FuelType = (typeof FUEL_TYPES)[number];
 export type TransmissionType = "Manual" | "Automatic" | "AMT" | "CVT" | "DCT";
 
 export interface Car {
@@ -47,13 +49,18 @@ interface FormatPriceOptions {
   startingPrice?: boolean;
 }
 
-export function formatPrice(price: number | null, options?: FormatPriceOptions): string {
+export function formatPrice(
+  price: number | null,
+  options?: FormatPriceOptions,
+): string {
   if (price === null) return "N/A";
 
   const startingSuffix = options?.startingPrice ? "* onwards" : "";
 
-  if (price >= 10000000) return `₹${(price / 10000000).toFixed(2)} Cr${startingSuffix}`;
-  if (price >= 100000) return `₹${(price / 100000).toFixed(2)} Lakh${startingSuffix}`;
+  if (price >= 10000000)
+    return `₹${(price / 10000000).toFixed(2)} Cr${startingSuffix}`;
+  if (price >= 100000)
+    return `₹${(price / 100000).toFixed(2)} Lakh${startingSuffix}`;
   return `₹${price.toLocaleString("en-IN")}${startingSuffix}`;
 }
 

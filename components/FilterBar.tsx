@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { FUEL_TYPES } from "@/lib/constant";
+import { BRANDS, BUDGET_RANGES } from "@/lib/types";
 import { SlidersHorizontal } from "lucide-react";
-import { BRANDS, BUDGET_RANGES, type FuelType } from "@/lib/types";
+import { useState } from "react";
 
 export interface FilterState {
   type: "all" | "new" | "pre-owned";
@@ -23,9 +24,10 @@ const DEFAULT_FILTERS: FilterState = {
   budgetMax: null,
 };
 
-const FUEL_TYPES: FuelType[] = ["Petrol", "Diesel", "CNG", "Electric", "Hybrid"];
-
-export default function FilterBar({ onFilterChange, initialFilters }: FilterBarProps) {
+export default function FilterBar({
+  onFilterChange,
+  initialFilters,
+}: FilterBarProps) {
   const [filters, setFilters] = useState<FilterState>({
     ...DEFAULT_FILTERS,
     ...initialFilters,
@@ -119,7 +121,10 @@ export default function FilterBar({ onFilterChange, initialFilters }: FilterBarP
           <select
             value={filters.budgetMax ?? ""}
             onChange={(e) =>
-              update("budgetMax", e.target.value ? Number(e.target.value) : null)
+              update(
+                "budgetMax",
+                e.target.value ? Number(e.target.value) : null,
+              )
             }
             className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm text-[#1A1A1A] bg-white focus:outline-none focus:ring-2 focus:ring-[#D72828]/30 focus:border-[#D72828] transition-colors"
           >

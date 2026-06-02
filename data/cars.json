@@ -66,7 +66,7 @@
     "model": "ELEVATE",
     "year": 2024,
     "price": 1146000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "CVT",
     "color": "Fearless Red",
     "images": [
@@ -157,7 +157,7 @@
     "model": "CRETA",
     "year": 2021,
     "price": 900000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Manual",
     "color": "Polar White",
     "images": [
@@ -188,7 +188,7 @@
     "model": "CRETA EV",
     "year": 2024,
     "price": 1200000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "Automatic",
     "color": "Calgary White",
     "images": [
@@ -249,7 +249,7 @@
     "model": "EXTER",
     "year": 2024,
     "price": 1300000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "DCT",
     "color": "Auburn Red Pearl",
     "images": [
@@ -340,7 +340,7 @@
     "model": "IONIQ",
     "year": 2023,
     "price": 1140000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Automatic",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -432,7 +432,7 @@
     "model": "VERNA",
     "year": 2024,
     "price": 1600000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "AMT",
     "color": "Fearless Red",
     "images": [
@@ -521,7 +521,7 @@
     "model": "CARNIVAL",
     "year": 2021,
     "price": 5942000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "CVT",
     "color": "Polar White",
     "images": [
@@ -552,7 +552,7 @@
     "model": "CLAVIS EV",
     "year": 2024,
     "price": 1799000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "DCT",
     "color": "Calgary White",
     "images": [
@@ -613,7 +613,7 @@
     "model": "SONET",
     "year": 2024,
     "price": 730000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Manual",
     "color": "Auburn Red Pearl",
     "images": [
@@ -704,7 +704,7 @@
     "model": "7XO",
     "year": 2023,
     "price": 1366000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "DCT",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -791,7 +791,7 @@
     "model": "BOLERO NEO",
     "year": 2024,
     "price": 869000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Automatic",
     "color": "Fearless Red",
     "images": [
@@ -875,7 +875,7 @@
     "model": "THAR",
     "year": 2021,
     "price": 999000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "AMT",
     "color": "Polar White",
     "images": [
@@ -933,7 +933,7 @@
     "model": "XEV 9S",
     "year": 2023,
     "price": 1995000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "Automatic",
     "color": "Imperial Blue",
     "images": [
@@ -963,7 +963,7 @@
     "model": "XEV9",
     "year": 2024,
     "price": 1995000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "CVT",
     "color": "Auburn Red Pearl",
     "images": [
@@ -1053,7 +1053,7 @@
     "model": "BALENO",
     "year": 2023,
     "price": 599000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Manual",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -1145,7 +1145,7 @@
     "model": "DZIRE",
     "year": 2024,
     "price": 626000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "DCT",
     "color": "Fearless Red",
     "images": [
@@ -1234,7 +1234,7 @@
     "model": "FRONX",
     "year": 2021,
     "price": 685000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Automatic",
     "color": "Polar White",
     "images": [
@@ -1326,7 +1326,7 @@
     "model": "JIMNY",
     "year": 2024,
     "price": 1232000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "AMT",
     "color": "Auburn Red Pearl",
     "images": [
@@ -1417,7 +1417,7 @@
     "model": "WAGON R",
     "year": 2023,
     "price": 499000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "CVT",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -1475,7 +1475,7 @@
   {
     "id": "mg-astor-2021-pre-owned",
     "brand": "MG",
-    "model": "ASTOR",
+    "model": "Astor Hatake",
     "year": 2021,
     "price": 979000,
     "fuelType": "Diesel",
@@ -1508,7 +1508,7 @@
     "model": "ASTOR EV",
     "year": 2024,
     "price": 1550000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "Manual",
     "color": "Fearless Red",
     "images": [
@@ -1566,7 +1566,7 @@
   {
     "id": "mg-cybster-2024-new",
     "brand": "MG",
-    "model": "CYBSTER",
+    "model": "Cyberster",
     "year": 2024,
     "price": 7500000,
     "fuelType": "Diesel",
@@ -1598,7 +1598,7 @@
     "model": "GLOSTER",
     "year": 2021,
     "price": 3833000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "DCT",
     "color": "Polar White",
     "images": [
@@ -1688,7 +1688,7 @@
     "model": "WINDSOR EV",
     "year": 2024,
     "price": 1198000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Automatic",
     "color": "Auburn Red Pearl",
     "images": [
@@ -1779,7 +1779,7 @@
     "model": "TRIBER",
     "year": 2023,
     "price": 576000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "AMT",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -1870,7 +1870,7 @@
     "model": "KYLAQ",
     "year": 2024,
     "price": 759000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "CVT",
     "color": "Fearless Red",
     "images": [
@@ -1960,7 +1960,7 @@
     "model": "CURVV",
     "year": 2021,
     "price": 966000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Manual",
     "color": "Polar White",
     "images": [
@@ -1991,7 +1991,7 @@
     "model": "CURVV EV",
     "year": 2024,
     "price": 1749000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "Automatic",
     "color": "Calgary White",
     "images": [
@@ -2052,7 +2052,7 @@
     "model": "HARRIER EV",
     "year": 2024,
     "price": 2149000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "DCT",
     "color": "Auburn Red Pearl",
     "images": [
@@ -2113,7 +2113,7 @@
     "model": "NEXON EV",
     "year": 2024,
     "price": 1249000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "Manual",
     "color": "Silver Metallic",
     "images": [
@@ -2143,7 +2143,7 @@
     "model": "PUNCH",
     "year": 2023,
     "price": 560000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Automatic",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -2174,7 +2174,7 @@
     "model": "PUNCH EV",
     "year": 2024,
     "price": 809000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "CVT",
     "color": "Pearl Arctic White",
     "images": [
@@ -2235,7 +2235,7 @@
     "model": "SIERRA",
     "year": 2024,
     "price": 1149000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "AMT",
     "color": "Fearless Red",
     "images": [
@@ -2296,7 +2296,7 @@
     "model": "TIAGO EV",
     "year": 2024,
     "price": 799000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "Automatic",
     "color": "Oxford Blue",
     "images": [
@@ -2326,7 +2326,7 @@
     "model": "TIAGO NRG",
     "year": 2021,
     "price": 668000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "CVT",
     "color": "Polar White",
     "images": [
@@ -2387,7 +2387,7 @@
     "model": "TIGOR EV",
     "year": 2023,
     "price": 1249000,
-    "fuelType": "Electric",
+    "fuelType": "EV",
     "transmission": "AMT",
     "color": "Imperial Blue",
     "images": [
@@ -2416,7 +2416,7 @@
     "model": "CAMRY",
     "year": 2024,
     "price": 4748000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Manual",
     "color": "Auburn Red Pearl",
     "images": [
@@ -2506,7 +2506,7 @@
     "model": "GLANZA",
     "year": 2023,
     "price": 646000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "DCT",
     "color": "Lunar Silver Metallic",
     "images": [
@@ -2597,7 +2597,7 @@
     "model": "INNOVA CRYSTA",
     "year": 2024,
     "price": 1885000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "Automatic",
     "color": "Fearless Red",
     "images": [
@@ -2687,7 +2687,7 @@
     "model": "RUMION",
     "year": 2021,
     "price": 956000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "AMT",
     "color": "Polar White",
     "images": [
@@ -2776,7 +2776,7 @@
     "model": "TAYRON R LINE",
     "year": 2024,
     "price": 4699000,
-    "fuelType": "CNG",
+    "fuelType": "Petrol + CNG",
     "transmission": "CVT",
     "color": "Auburn Red Pearl",
     "images": [

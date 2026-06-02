@@ -1,6 +1,6 @@
 import type { Car } from "@/lib/types";
-import { formatKm, formatPrice } from "@/lib/types";
-import { Fuel, Gauge, Settings2 } from "lucide-react";
+import { formatPrice } from "@/lib/types";
+import { Fuel } from "lucide-react";
 import { CldImage } from "next-cloudinary";
 import Link from "next/link";
 
@@ -37,9 +37,6 @@ export default function CarCard({ car }: CarCardProps) {
               {car.brand} {car.model}
             </h3>
           </Link>
-          <span className="text-xs text-gray-500 bg-gray-100 px-2 py-0.5 rounded-full shrink-0">
-            {car.year}
-          </span>
         </div>
 
         {/* Specs row */}
@@ -47,16 +44,6 @@ export default function CarCard({ car }: CarCardProps) {
           <span className="flex items-center gap-1">
             <Fuel className="h-3.5 w-3.5" />
             {car.fuelType}
-          </span>
-          {car.kmDriven !== undefined ? (
-            <span className="flex items-center gap-1">
-              <Gauge className="h-3.5 w-3.5" />
-              {formatKm(car.kmDriven)}
-            </span>
-          ) : null}
-          <span className="flex items-center gap-1">
-            <Settings2 className="h-3.5 w-3.5" />
-            {car.transmission}
           </span>
         </div>
 
