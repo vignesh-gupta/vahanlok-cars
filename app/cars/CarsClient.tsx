@@ -20,6 +20,10 @@ export default function CarsClient({
   const router = useRouter();
   const searchParams = useSearchParams();
 
+  function normalizeBrand(value: string) {
+    return value.trim().toLowerCase();
+  }
+
   const [filters, setFilters] = useState<FilterState>({
     type: (initialType as FilterState["type"]) ?? "all",
     brand: searchParams.get("brand") ?? "",
@@ -40,10 +44,10 @@ export default function CarsClient({
   useEffect(() => {
     const type = searchParams.get("type") as FilterState["type"] | null;
     if (type && type !== filters.type) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setFilters((prev) => ({ ...prev, type: type ?? "all" }));
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [filters.type, searchParams]);
 
   function handleFilterChange(newFilters: FilterState) {
     setFilters(newFilters);
@@ -80,7 +84,11 @@ export default function CarsClient({
 
   const filtered = initialCars.filter((car) => {
     if (filters.type === "pre-owned") return false; // NO Pre-owned cars (will show requirement box)
-    if (filters.brand && car.brand !== filters.brand) return false;
+    if (
+      filters.brand &&
+      normalizeBrand(car.brand) !== normalizeBrand(filters.brand)
+    )
+      return false;
     if (filters.fuelType && car.fuelType !== filters.fuelType) return false;
     if (
       filters.budgetMax !== null &&
