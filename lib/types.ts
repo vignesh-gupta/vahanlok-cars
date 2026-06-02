@@ -10,17 +10,7 @@ export interface Car {
   year: number;
   price: number | null; // null means price is unavailable (show as "N/A")
   fuelType: FuelType;
-  transmission: TransmissionType;
-  kmDriven?: number; // only for pre-owned
-  color: string;
   images: string[]; // Cloudinary URLs derived from /cars paths
-  features: string[];
-  specs: {
-    engine?: string;
-    seating?: number;
-    mileage?: string;
-    bootSpace?: string;
-  };
 }
 
 export const BRANDS = [

@@ -25,7 +25,7 @@ export async function generateMetadata({
   if (!car) return { title: "Car Not Found — Vahanlok" };
 
   const title = `${car.brand} ${car.model} (${car.year}) — Vahanlok`;
-  const description = `Brand new ${car.model} ${car.year} for ${formatPrice(car.price)}. ${car.fuelType} · ${car.transmission}.`;
+  const description = `Brand new ${car.model} ${car.year} for ${formatPrice(car.price)}. ${car.fuelType}`;
   const image = car.images[0] ? encodeURI(car.images[0]) : "/thumbnail.png";
   const pageUrl = `/cars/${car.id}`;
 
@@ -37,7 +37,6 @@ export async function generateMetadata({
       car.model,
       `${car.brand} ${car.model}`,
       `new car in Mumbai`,
-      `${car.fuelType} ${car.transmission}`,
       "Vahanlok",
     ],
     alternates: {
