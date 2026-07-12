@@ -19,14 +19,14 @@
     "brand": "HONDA",
     "model": "CITY",
     "year": 2021,
-    "price": 1200000,
+    "price": 1429000,
     "fuelType": "Petrol",
     "images": [
-      "/cars/HONDA/CITY/cityhondacityfrontview1.webp",
-      "/cars/HONDA/CITY/cityhondacityleftfrontthreequarter0.webp",
-      "/cars/HONDA/CITY/citycityrearview.webp",
-      "/cars/HONDA/CITY/citycityleftrearthreequarter.webp",
-      "/cars/HONDA/CITY/citycitysteeringwheel.webp"
+      "/cars/HONDA/CITY/citycityfaceliftfrontview.webp",
+      "/cars/HONDA/CITY/citycityfaceliftrightsideview.webp",
+      "/cars/HONDA/CITY/citycityfaceliftrearview.webp",
+      "/cars/HONDA/CITY/citycityfaceliftrightsideview.webp",
+      "/cars/HONDA/CITY/citycityfaceliftdashboard.webp"
     ]
   },
   {
@@ -1132,14 +1132,14 @@
     "brand": "TATA",
     "model": "TIAGO",
     "year": 2023,
-    "price": 457000,
+    "price": 558000,
     "fuelType": "Petrol + CNG",
     "images": [
-      "/cars/TATA/TIAGO/tiago-exterior-front-view-40.avif",
-      "/cars/TATA/TIAGO/tiago-exterior-left-front-three-quarter-3.avif",
-      "/cars/TATA/TIAGO/tiago-exterior-left-side-view-22.avif",
-      "/cars/TATA/TIAGO/tiago-exterior-rear-view-22.avif",
-      "/cars/TATA/TIAGO/tiago-interior-dashboard-5.avif"
+      "/cars/TATA/TIAGO/next-gen-tiago-exterior-right-front-three-quarter-37.avif",
+      "/cars/TATA/TIAGO/next-gen-tiago-exterior-right-side-view-7.avif",
+      "/cars/TATA/TIAGO/next-gen-tiago-exterior-rear-view-32.avif",
+      "/cars/TATA/TIAGO/next-gen-tiago-exterior-left-side-view.avif",
+      "/cars/TATA/TIAGO/next-gen-tiago-interior-dashboard.avif"
     ]
   },
   {
@@ -1147,14 +1147,14 @@
     "brand": "TATA",
     "model": "TIAGO EV",
     "year": 2024,
-    "price": 799000,
+    "price": 737000,
     "fuelType": "EV",
     "images": [
-      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevfrontview25.webp",
-      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevleftfrontthreequarter4.webp",
-      "/cars/TATA/TIAGO EV/tiagoevtiagoevleftsideview.webp",
-      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevrearview.webp",
-      "/cars/TATA/TIAGO EV/tiagoevtatatiagoevdashboard12.webp"
+      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevfrontview.webp",
+      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevrightsideview.webp",
+      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevrearview.webp",
+      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevleftsideview.webp",
+      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevdashboard.webp"
     ]
   },
   {
@@ -1293,12 +1293,13 @@
     "brand": "TOYOTA",
     "model": "INNOVA CRYSTA",
     "year": 2024,
-    "price": 1885000,
+    "price": 2394000,
     "fuelType": "Diesel",
     "images": [
       "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystafrontview.webp",
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystaleftfrontthreequarter.webp",
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystarightfrontthreequarter.webp",
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystarightsideview.webp",
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystarearview.webp",
+      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystaleftsideview.webp",
       "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystadashboard.webp"
     ]
   },
