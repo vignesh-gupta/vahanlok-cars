@@ -25,7 +25,7 @@
       "/cars/HONDA/CITY/citycityfaceliftfrontview.webp",
       "/cars/HONDA/CITY/citycityfaceliftrightsideview.webp",
       "/cars/HONDA/CITY/citycityfaceliftrearview.webp",
-      "/cars/HONDA/CITY/citycityfaceliftrightsideview.webp",
+      "/cars/HONDA/CITY/citycityfaceliftleftsideview.webp",
       "/cars/HONDA/CITY/citycityfaceliftdashboard.webp"
     ]
   },
@@ -1135,11 +1135,11 @@
     "price": 558000,
     "fuelType": "Petrol + CNG",
     "images": [
-      "/cars/TATA/TIAGO/next-gen-tiago-exterior-right-front-three-quarter-37.avif",
-      "/cars/TATA/TIAGO/next-gen-tiago-exterior-right-side-view-7.avif",
-      "/cars/TATA/TIAGO/next-gen-tiago-exterior-rear-view-32.avif",
-      "/cars/TATA/TIAGO/next-gen-tiago-exterior-left-side-view.avif",
-      "/cars/TATA/TIAGO/next-gen-tiago-interior-dashboard.avif"
+      "next-gen-tiago-exterior-right-front-three-quarter-37_dnalmj",
+      "next-gen-tiago-exterior-right-side-view-7_r8pns4",
+      "next-gen-tiago-exterior-rear-view-32_quge5y",
+      "next-gen-tiago-exterior-left-side-view_blv2ui",
+      "next-gen-tiago-interior-dashboard_fkqmdp"
     ]
   },
   {
@@ -1150,11 +1150,11 @@
     "price": 737000,
     "fuelType": "EV",
     "images": [
-      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevfrontview.webp",
-      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevrightsideview.webp",
-      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevrearview.webp",
-      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevleftsideview.webp",
-      "/cars/TATA/TIAGO EV/tiagoevnextgentiagoevdashboard.webp"
+      "tiagoevnextgentiagoevfrontview_vpfmgh",
+      "tiagoevnextgentiagoevrightsideview_q3bm5l",
+      "tiagoevnextgentiagoevrearview_eowrlm",
+      "tiagoevnextgentiagoevleftsideview_mfpvig",
+      "tiagoevnextgentiagoevdashboard_udses7"
     ]
   },
   {
@@ -1296,11 +1296,11 @@
     "price": 2394000,
     "fuelType": "Diesel",
     "images": [
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystafrontview.webp",
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystarightsideview.webp",
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystarearview.webp",
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystaleftsideview.webp",
-      "/cars/TOYOTA/INNOVA CRYSTA/innovacrystainnovacrystadashboard.webp"
+      "innovacrystainnovacrystafrontview_hbpiup",
+      "innovacrystainnovacrystarightsideview_gkimly",
+      "innovacrystainnovacrystarearview_uxxdqq",
+      "innovacrystainnovacrystaleftsideview_gwrici",
+      "innovacrystainnovacrystadashboard_nmud39"
     ]
   },
   {
