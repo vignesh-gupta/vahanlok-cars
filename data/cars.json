@@ -1,9 +1,8 @@
 [
   {
-    "id": "honda-amaze-2024-new",
+    "id": "honda-amaze",
     "brand": "HONDA",
     "model": "AMAZE",
-    "year": 2024,
     "price": 752000,
     "fuelType": "Petrol",
     "images": [
@@ -15,10 +14,9 @@
     ]
   },
   {
-    "id": "honda-city-2021-pre-owned",
+    "id": "honda-city",
     "brand": "HONDA",
     "model": "CITY",
-    "year": 2021,
     "price": 1429000,
     "fuelType": "Petrol",
     "images": [
@@ -30,10 +28,9 @@
     ]
   },
   {
-    "id": "honda-elevate-2024-new",
+    "id": "honda-elevate",
     "brand": "HONDA",
     "model": "ELEVATE",
-    "year": 2024,
     "price": 1146000,
     "fuelType": "Petrol",
     "images": [
@@ -45,10 +42,9 @@
     ]
   },
   {
-    "id": "hyundai-alcazar-2023-pre-owned",
+    "id": "hyundai-alcazar",
     "brand": "HYUNDAI",
     "model": "ALCAZAR",
-    "year": 2023,
     "price": 820000,
     "fuelType": "Petrol",
     "images": [
@@ -60,10 +56,9 @@
     ]
   },
   {
-    "id": "hyundai-aura-2024-new",
+    "id": "hyundai-aura",
     "brand": "HYUNDAI",
     "model": "AURA",
-    "year": 2024,
     "price": 1100000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -75,10 +70,9 @@
     ]
   },
   {
-    "id": "hyundai-creta-2021-pre-owned",
+    "id": "hyundai-creta",
     "brand": "HYUNDAI",
     "model": "CRETA",
-    "year": 2021,
     "price": 900000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -90,10 +84,9 @@
     ]
   },
   {
-    "id": "hyundai-creta-ev-2024-new",
+    "id": "hyundai-creta-ev",
     "brand": "HYUNDAI",
     "model": "CRETA EV",
-    "year": 2024,
     "price": 1200000,
     "fuelType": "EV",
     "images": [
@@ -105,10 +98,9 @@
     ]
   },
   {
-    "id": "hyundai-creta-n-line-2023-pre-owned",
+    "id": "hyundai-creta-n-line",
     "brand": "HYUNDAI",
     "model": "CRETA N LINE",
-    "year": 2023,
     "price": 980000,
     "fuelType": "Petrol",
     "images": [
@@ -120,10 +112,9 @@
     ]
   },
   {
-    "id": "hyundai-exter-2024-new",
+    "id": "hyundai-exter",
     "brand": "HYUNDAI",
     "model": "EXTER",
-    "year": 2024,
     "price": 1300000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -135,10 +126,9 @@
     ]
   },
   {
-    "id": "hyundai-i-10-nios-2021-pre-owned",
+    "id": "hyundai-i-10-nios",
     "brand": "HYUNDAI",
     "model": "I 10 NIOS",
-    "year": 2021,
     "price": 1060000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -150,10 +140,9 @@
     ]
   },
   {
-    "id": "hyundai-i-20-2024-new",
+    "id": "hyundai-i",
     "brand": "HYUNDAI",
     "model": "I 20",
-    "year": 2024,
     "price": 1400000,
     "fuelType": "Petrol",
     "images": [
@@ -165,10 +154,9 @@
     ]
   },
   {
-    "id": "hyundai-ioniq-2023-pre-owned",
+    "id": "hyundai-ioniq",
     "brand": "HYUNDAI",
     "model": "IONIQ",
-    "year": 2023,
     "price": 1140000,
     "fuelType": "Electric",
     "images": [
@@ -180,10 +168,9 @@
     ]
   },
   {
-    "id": "hyundai-venue-2024-new",
+    "id": "hyundai-venue",
     "brand": "HYUNDAI",
     "model": "VENUE",
-    "year": 2024,
     "price": 1500000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -195,10 +182,9 @@
     ]
   },
   {
-    "id": "hyundai-venue-n-line-2021-pre-owned",
+    "id": "hyundai-venue-n-line",
     "brand": "HYUNDAI",
     "model": "VENUE N LINE",
-    "year": 2021,
     "price": 1220000,
     "fuelType": "Petrol",
     "images": [
@@ -210,10 +196,9 @@
     ]
   },
   {
-    "id": "hyundai-verna-2024-new",
+    "id": "hyundai-verna",
     "brand": "HYUNDAI",
     "model": "VERNA",
-    "year": 2024,
     "price": 1600000,
     "fuelType": "Petrol",
     "images": [
@@ -225,10 +210,9 @@
     ]
   },
   {
-    "id": "kia-carens-2023-pre-owned",
+    "id": "kia-carens",
     "brand": "KIA",
     "model": "CARENS",
-    "year": 2023,
     "price": 1099000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -239,10 +223,9 @@
     ]
   },
   {
-    "id": "kia-carens-clavis-2024-new",
+    "id": "kia-carens-clavis",
     "brand": "KIA",
     "model": "CARENS CLAVIS",
-    "year": 2024,
     "price": 1108000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -253,10 +236,9 @@
     ]
   },
   {
-    "id": "kia-carnival-2021-pre-owned",
+    "id": "kia-carnival",
     "brand": "KIA",
     "model": "CARNIVAL",
-    "year": 2021,
     "price": 5942000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -268,10 +250,9 @@
     ]
   },
   {
-    "id": "kia-clavis-ev-2024-new",
+    "id": "kia-clavis-ev",
     "brand": "KIA",
     "model": "CLAVIS EV",
-    "year": 2024,
     "price": 1799000,
     "fuelType": "EV",
     "images": [
@@ -283,10 +264,9 @@
     ]
   },
   {
-    "id": "kia-seltos-2023-pre-owned",
+    "id": "kia-seltos",
     "brand": "KIA",
     "model": "SELTOS",
-    "year": 2023,
     "price": 1099000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -298,10 +278,9 @@
     ]
   },
   {
-    "id": "kia-sonet-2024-new",
+    "id": "kia-sonet",
     "brand": "KIA",
     "model": "SONET",
-    "year": 2024,
     "price": 730000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -313,10 +292,9 @@
     ]
   },
   {
-    "id": "kia-syros-2021-pre-owned",
+    "id": "kia-syros",
     "brand": "KIA",
     "model": "SYROS",
-    "year": 2021,
     "price": 860000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -328,10 +306,9 @@
     ]
   },
   {
-    "id": "mahindra-3xo-2024-new",
+    "id": "mahindra-3xo",
     "brand": "MAHINDRA",
     "model": "3XO",
-    "year": 2024,
     "price": 737000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -343,10 +320,9 @@
     ]
   },
   {
-    "id": "mahindra-7xo-2023-pre-owned",
+    "id": "mahindra-7xo",
     "brand": "MAHINDRA",
     "model": "7XO",
-    "year": 2023,
     "price": 1366000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -358,10 +334,9 @@
     ]
   },
   {
-    "id": "mahindra-be6-2024-new",
+    "id": "mahindra-be6",
     "brand": "MAHINDRA",
     "model": "BE6",
-    "year": 2024,
     "price": 1890000,
     "fuelType": "EV",
     "images": [
@@ -371,10 +346,9 @@
     ]
   },
   {
-    "id": "mahindra-bolero-2021-pre-owned",
+    "id": "mahindra-bolero",
     "brand": "MAHINDRA",
     "model": "BOLERO",
-    "year": 2021,
     "price": 799000,
     "fuelType": "Diesel",
     "images": [
@@ -383,10 +357,9 @@
     ]
   },
   {
-    "id": "mahindra-bolero-neo-2024-new",
+    "id": "mahindra-bolero-neo",
     "brand": "MAHINDRA",
     "model": "BOLERO NEO",
-    "year": 2024,
     "price": 869000,
     "fuelType": "Diesel",
     "images": [
@@ -395,10 +368,9 @@
     ]
   },
   {
-    "id": "mahindra-scorpio-2023-pre-owned",
+    "id": "mahindra-scorpio",
     "brand": "MAHINDRA",
     "model": "SCORPIO",
-    "year": 2023,
     "price": 1298000,
     "fuelType": "Diesel",
     "images": [
@@ -410,10 +382,9 @@
     ]
   },
   {
-    "id": "mahindra-scorpio-n-2024-new",
+    "id": "mahindra-scorpio-n",
     "brand": "MAHINDRA",
     "model": "SCORPIO N",
-    "year": 2024,
     "price": 1349000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -421,22 +392,20 @@
     ]
   },
   {
-    "id": "mahindra-thar-2021-pre-owned",
+    "id": "mahindra-thar",
     "brand": "MAHINDRA",
     "model": "THAR",
-    "year": 2021,
     "price": 999000,
     "fuelType": "Petrol & Diesel",
     "images": [
-      "/cars/MAHINDRA/THAR/thar-facelift-2025-exterior-right-front-three-quarter-6.avif",
-      "/cars/MAHINDRA/THAR/thar-2025-interior-dashboard-26.avif"
+      "/cars/MAHINDRA/THAR/thar-facelift-exterior-right-front-three-quarter-6.avif",
+      "/cars/MAHINDRA/THAR/thar-interior-dashboard-26.avif"
     ]
   },
   {
-    "id": "mahindra-thar-roxx-2024-new",
+    "id": "mahindra-thar-roxx",
     "brand": "MAHINDRA",
     "model": "THAR ROXX",
-    "year": 2024,
     "price": 1239000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -448,10 +417,9 @@
     ]
   },
   {
-    "id": "mahindra-xev-9s-2023-pre-owned",
+    "id": "mahindra-xev-9s",
     "brand": "MAHINDRA",
     "model": "XEV 9S",
-    "year": 2023,
     "price": 1995000,
     "fuelType": "EV",
     "images": [
@@ -462,10 +430,9 @@
     ]
   },
   {
-    "id": "mahindra-xev9-2024-new",
+    "id": "mahindra-xev9",
     "brand": "MAHINDRA",
     "model": "XEV9",
-    "year": 2024,
     "price": 1995000,
     "fuelType": "EV",
     "images": [
@@ -476,10 +443,9 @@
     ]
   },
   {
-    "id": "mahindra-xuv-400-2021-pre-owned",
+    "id": "mahindra-xuv-400",
     "brand": "MAHINDRA",
     "model": "XUV 400",
-    "year": 2021,
     "price": 1549000,
     "fuelType": "EV",
     "images": [
@@ -491,10 +457,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-alto-k10-2024-new",
+    "id": "maruti-suzuki-alto-k10",
     "brand": "MARUTI SUZUKI",
     "model": "ALTO K10",
-    "year": 2024,
     "price": 370000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -506,10 +471,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-baleno-2023-pre-owned",
+    "id": "maruti-suzuki-baleno",
     "brand": "MARUTI SUZUKI",
     "model": "BALENO",
-    "year": 2023,
     "price": 599000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -521,10 +485,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-brezza-2024-new",
+    "id": "maruti-suzuki-brezza",
     "brand": "MARUTI SUZUKI",
     "model": "BREZZA",
-    "year": 2024,
     "price": 826000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -536,10 +499,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-celerio-2021-pre-owned",
+    "id": "maruti-suzuki-celerio",
     "brand": "MARUTI SUZUKI",
     "model": "CELERIO",
-    "year": 2021,
     "price": 470000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -551,10 +513,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-dzire-2024-new",
+    "id": "maruti-suzuki-dzire",
     "brand": "MARUTI SUZUKI",
     "model": "DZIRE",
-    "year": 2024,
     "price": 626000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -566,10 +527,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-eeco-2023-pre-owned",
+    "id": "maruti-suzuki-eeco",
     "brand": "MARUTI SUZUKI",
     "model": "EECO",
-    "year": 2023,
     "price": 521000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -579,10 +539,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-ertiga-2024-new",
+    "id": "maruti-suzuki-ertiga",
     "brand": "MARUTI SUZUKI",
     "model": "ERTIGA",
-    "year": 2024,
     "price": 880000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -594,10 +553,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-fronx-2021-pre-owned",
+    "id": "maruti-suzuki-fronx",
     "brand": "MARUTI SUZUKI",
     "model": "FRONX",
-    "year": 2021,
     "price": 685000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -609,10 +567,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-grand-vitara-2024-new",
+    "id": "maruti-suzuki-grand-vitara",
     "brand": "MARUTI SUZUKI",
     "model": "GRAND VITARA",
-    "year": 2024,
     "price": 1077000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -624,10 +581,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-invicto-2023-pre-owned",
+    "id": "maruti-suzuki-invicto",
     "brand": "MARUTI SUZUKI",
     "model": "INVICTO",
-    "year": 2023,
     "price": 2497000,
     "fuelType": "Petrol",
     "images": [
@@ -639,10 +595,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-jimny-2024-new",
+    "id": "maruti-suzuki-jimny",
     "brand": "MARUTI SUZUKI",
     "model": "JIMNY",
-    "year": 2024,
     "price": 1232000,
     "fuelType": "Petrol",
     "images": [
@@ -654,10 +609,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-swift-2021-pre-owned",
+    "id": "maruti-suzuki-swift",
     "brand": "MARUTI SUZUKI",
     "model": "SWIFT",
-    "year": 2021,
     "price": 579000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -669,10 +623,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-victoris-2024-new",
+    "id": "maruti-suzuki-victoris",
     "brand": "MARUTI SUZUKI",
     "model": "VICTORIS",
-    "year": 2024,
     "price": 1050000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -684,10 +637,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-wagon-r-2023-pre-owned",
+    "id": "maruti-suzuki-wagon-r",
     "brand": "MARUTI SUZUKI",
     "model": "WAGON R",
-    "year": 2023,
     "price": 499000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -699,10 +651,9 @@
     ]
   },
   {
-    "id": "maruti-suzuki-xl6-2024-new",
+    "id": "maruti-suzuki-xl6",
     "brand": "MARUTI SUZUKI",
     "model": "XL6",
-    "year": 2024,
     "price": 1152000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -714,10 +665,9 @@
     ]
   },
   {
-    "id": "mg-astor-2021-pre-owned",
+    "id": "mg-astor",
     "brand": "MG",
-    "model": "Astor Hatake",
-    "year": 2021,
+    "model": "ASTOR",
     "price": 979000,
     "fuelType": "Petrol",
     "images": [
@@ -728,10 +678,9 @@
     ]
   },
   {
-    "id": "mg-astor-ev-2024-new",
+    "id": "mg-zs-ev",
     "brand": "MG",
-    "model": "ASTOR EV",
-    "year": 2024,
+    "model": "ZS EV",
     "price": 1550000,
     "fuelType": "EV",
     "images": [
@@ -743,10 +692,9 @@
     ]
   },
   {
-    "id": "mg-comet-2023-pre-owned",
+    "id": "mg-comet",
     "brand": "MG",
     "model": "COMET",
-    "year": 2023,
     "price": 631000,
     "fuelType": "EV",
     "images": [
@@ -758,10 +706,9 @@
     ]
   },
   {
-    "id": "mg-cybster-2024-new",
+    "id": "mg-cybster",
     "brand": "MG",
     "model": "Cyberster",
-    "year": 2024,
     "price": 7500000,
     "fuelType": "EV",
     "images": [
@@ -772,10 +719,9 @@
     ]
   },
   {
-    "id": "mg-gloster-2021-pre-owned",
+    "id": "mg-gloster",
     "brand": "MG",
     "model": "GLOSTER",
-    "year": 2021,
     "price": 3833000,
     "fuelType": "Diesel",
     "images": [
@@ -787,10 +733,9 @@
     ]
   },
   {
-    "id": "mg-hector-plus-2024-new",
+    "id": "mg-hector-plus",
     "brand": "MG",
     "model": "HECTOR PLUS",
-    "year": 2024,
     "price": 1729000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -801,10 +746,9 @@
     ]
   },
   {
-    "id": "mg-m9-2023-pre-owned",
+    "id": "mg-m9",
     "brand": "MG",
     "model": "M9",
-    "year": 2023,
     "price": 7090000,
     "fuelType": "EV",
     "images": [
@@ -815,10 +759,9 @@
     ]
   },
   {
-    "id": "mg-windsor-2024-new",
+    "id": "mg-windsor",
     "brand": "MG",
     "model": "WINDSOR EV",
-    "year": 2024,
     "price": 1198000,
     "fuelType": "EV",
     "images": [
@@ -830,10 +773,9 @@
     ]
   },
   {
-    "id": "mg-majestor-2026-new",
+    "id": "mg-majestor",
     "brand": "MG",
     "model": "MAJESTOR",
-    "year": 2026,
     "price": 4099000,
     "fuelType": "Diesel",
     "images": [
@@ -845,10 +787,9 @@
     ]
   },
   {
-    "id": "renault-duster-2026-new",
+    "id": "renault-duster",
     "brand": "RENAULT",
     "model": "DUSTER",
-    "year": 2026,
     "price": 1049000,
     "fuelType": "Petrol",
     "images": [
@@ -860,10 +801,9 @@
     ]
   },
   {
-    "id": "renault-kiger-2021-pre-owned",
+    "id": "renault-kiger",
     "brand": "RENAULT",
     "model": "KIGER",
-    "year": 2021,
     "price": 576000,
     "fuelType": "Petrol",
     "images": [
@@ -875,10 +815,9 @@
     ]
   },
   {
-    "id": "renault-kwid-2024-new",
+    "id": "renault-kwid",
     "brand": "RENAULT",
     "model": "KWID",
-    "year": 2024,
     "price": 430000,
     "fuelType": "Petrol",
     "images": [
@@ -890,10 +829,9 @@
     ]
   },
   {
-    "id": "renault-triber-2023-pre-owned",
+    "id": "renault-triber",
     "brand": "RENAULT",
     "model": "TRIBER",
-    "year": 2023,
     "price": 576000,
     "fuelType": "Petrol",
     "images": [
@@ -905,10 +843,9 @@
     ]
   },
   {
-    "id": "skoda-kodiaq-2024-new",
+    "id": "skoda-kodiaq",
     "brand": "SKODA",
     "model": "KODIAQ",
-    "year": 2024,
     "price": 3999000,
     "fuelType": "Petrol",
     "images": [
@@ -920,10 +857,9 @@
     ]
   },
   {
-    "id": "skoda-kushaq-2021-pre-owned",
+    "id": "skoda-kushaq",
     "brand": "SKODA",
     "model": "KUSHAQ",
-    "year": 2021,
     "price": 1066000,
     "fuelType": "Petrol",
     "images": [
@@ -934,10 +870,9 @@
     ]
   },
   {
-    "id": "skoda-kylaq-2024-new",
+    "id": "skoda-kylaq",
     "brand": "SKODA",
     "model": "KYLAQ",
-    "year": 2024,
     "price": 759000,
     "fuelType": "Petrol",
     "images": [
@@ -949,10 +884,9 @@
     ]
   },
   {
-    "id": "skoda-slavia-2023-pre-owned",
+    "id": "skoda-slavia",
     "brand": "SKODA",
     "model": "SLAVIA",
-    "year": 2023,
     "price": 1000000,
     "fuelType": "Petrol",
     "images": [
@@ -963,10 +897,9 @@
     ]
   },
   {
-    "id": "tata-altroz-2024-new",
+    "id": "tata-altroz",
     "brand": "TATA",
     "model": "ALTROZ",
-    "year": 2024,
     "price": 630000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -978,10 +911,9 @@
     ]
   },
   {
-    "id": "tata-curvv-2021-pre-owned",
+    "id": "tata-curvv",
     "brand": "TATA",
     "model": "CURVV",
-    "year": 2021,
     "price": 966000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -993,10 +925,9 @@
     ]
   },
   {
-    "id": "tata-curvv-ev-2024-new",
+    "id": "tata-curvv-ev",
     "brand": "TATA",
     "model": "CURVV EV",
-    "year": 2024,
     "price": 1749000,
     "fuelType": "EV",
     "images": [
@@ -1008,10 +939,9 @@
     ]
   },
   {
-    "id": "tata-harrier-2023-pre-owned",
+    "id": "tata-harrier",
     "brand": "TATA",
     "model": "HARRIER",
-    "year": 2023,
     "price": 1289000,
     "fuelType": "Diesel",
     "images": [
@@ -1023,10 +953,9 @@
     ]
   },
   {
-    "id": "tata-harrier-ev-2024-new",
+    "id": "tata-harrier-ev",
     "brand": "TATA",
     "model": "HARRIER EV",
-    "year": 2024,
     "price": 2149000,
     "fuelType": "EV",
     "images": [
@@ -1038,10 +967,9 @@
     ]
   },
   {
-    "id": "tata-nexon-2021-pre-owned",
+    "id": "tata-nexon",
     "brand": "TATA",
     "model": "NEXON",
-    "year": 2021,
     "price": 3460000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1053,10 +981,9 @@
     ]
   },
   {
-    "id": "tata-nexon-ev-2024-new",
+    "id": "tata-nexon-ev",
     "brand": "TATA",
     "model": "NEXON EV",
-    "year": 2024,
     "price": 1249000,
     "fuelType": "EV",
     "images": [
@@ -1068,10 +995,9 @@
     ]
   },
   {
-    "id": "tata-punch-2023-pre-owned",
+    "id": "tata-punch",
     "brand": "TATA",
     "model": "PUNCH",
-    "year": 2023,
     "price": 560000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1083,10 +1009,9 @@
     ]
   },
   {
-    "id": "tata-punch-ev-2024-new",
+    "id": "tata-punch-ev",
     "brand": "TATA",
     "model": "PUNCH EV",
-    "year": 2024,
     "price": 809000,
     "fuelType": "EV",
     "images": [
@@ -1098,10 +1023,9 @@
     ]
   },
   {
-    "id": "tata-safari-2021-pre-owned",
+    "id": "tata-safari",
     "brand": "TATA",
     "model": "SAFARI",
-    "year": 2021,
     "price": 1329000,
     "fuelType": "Diesel",
     "images": [
@@ -1113,10 +1037,9 @@
     ]
   },
   {
-    "id": "tata-sierra-2024-new",
+    "id": "tata-sierra",
     "brand": "TATA",
     "model": "SIERRA",
-    "year": 2024,
     "price": 1149000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -1128,10 +1051,9 @@
     ]
   },
   {
-    "id": "tata-tiago-2023-pre-owned",
+    "id": "tata-tiago",
     "brand": "TATA",
     "model": "TIAGO",
-    "year": 2023,
     "price": 558000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1143,10 +1065,9 @@
     ]
   },
   {
-    "id": "tata-tiago-ev-2024-new",
+    "id": "tata-tiago-ev",
     "brand": "TATA",
     "model": "TIAGO EV",
-    "year": 2024,
     "price": 737000,
     "fuelType": "EV",
     "images": [
@@ -1158,10 +1079,9 @@
     ]
   },
   {
-    "id": "tata-tiago-nrg-2021-pre-owned",
+    "id": "tata-tiago-nrg",
     "brand": "TATA",
     "model": "TIAGO NRG",
-    "year": 2021,
     "price": 668000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1173,10 +1093,9 @@
     ]
   },
   {
-    "id": "tata-tigor-2024-new",
+    "id": "tata-tigor",
     "brand": "TATA",
     "model": "TIGOR",
-    "year": 2024,
     "price": 549000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1188,10 +1107,9 @@
     ]
   },
   {
-    "id": "tata-tigor-ev-2023-pre-owned",
+    "id": "tata-tigor-ev",
     "brand": "TATA",
     "model": "TIGOR EV",
-    "year": 2023,
     "price": 1249000,
     "fuelType": "EV",
     "images": [
@@ -1201,10 +1119,9 @@
     ]
   },
   {
-    "id": "toyota-camry-2024-new",
+    "id": "toyota-camry",
     "brand": "TOYOTA",
     "model": "CAMRY",
-    "year": 2024,
     "price": 4748000,
     "fuelType": "Petrol",
     "images": [
@@ -1216,10 +1133,9 @@
     ]
   },
   {
-    "id": "toyota-fortuner-2021-pre-owned",
+    "id": "toyota-fortuner",
     "brand": "TOYOTA",
     "model": "FORTUNER",
-    "year": 2021,
     "price": 3416000,
     "fuelType": "Petrol & Diesel",
     "images": [
@@ -1230,10 +1146,9 @@
     ]
   },
   {
-    "id": "toyota-fortuner-legender-2024-new",
+    "id": "toyota-fortuner-legender",
     "brand": "TOYOTA",
     "model": "FORTUNER LEGENDER",
-    "year": 2024,
     "price": 4217000,
     "fuelType": "Diesel",
     "images": [
@@ -1245,10 +1160,9 @@
     ]
   },
   {
-    "id": "toyota-glanza-2023-pre-owned",
+    "id": "toyota-glanza",
     "brand": "TOYOTA",
     "model": "GLANZA",
-    "year": 2023,
     "price": 646000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1260,10 +1174,9 @@
     ]
   },
   {
-    "id": "toyota-hilux-2024-new",
+    "id": "toyota-hilux",
     "brand": "TOYOTA",
     "model": "HILUX",
-    "year": 2024,
     "price": 2802000,
     "fuelType": "Diesel",
     "images": [
@@ -1274,10 +1187,9 @@
     ]
   },
   {
-    "id": "toyota-hyryder-2021-pre-owned",
+    "id": "toyota-hyryder",
     "brand": "TOYOTA",
     "model": "HYRYDER",
-    "year": 2021,
     "price": 1099000,
     "fuelType": "Petrol",
     "images": [
@@ -1289,10 +1201,9 @@
     ]
   },
   {
-    "id": "toyota-innova-crysta-2024-new",
+    "id": "toyota-innova-crysta",
     "brand": "TOYOTA",
     "model": "INNOVA CRYSTA",
-    "year": 2024,
     "price": 2394000,
     "fuelType": "Diesel",
     "images": [
@@ -1304,10 +1215,9 @@
     ]
   },
   {
-    "id": "toyota-innova-hycross-2023-pre-owned",
+    "id": "toyota-innova-hycross",
     "brand": "TOYOTA",
     "model": "HYCROSS",
-    "year": 2023,
     "price": 1915000,
     "fuelType": "Petrol",
     "images": [
@@ -1319,10 +1229,9 @@
     ]
   },
   {
-    "id": "toyota-land-curiser-2024-new",
+    "id": "toyota-land-curiser",
     "brand": "TOYOTA",
     "model": "LAND CRUISER",
-    "year": 2024,
     "price": 21600000,
     "fuelType": "Diesel",
     "images": [
@@ -1334,10 +1243,9 @@
     ]
   },
   {
-    "id": "toyota-rumion-2021-pre-owned",
+    "id": "toyota-rumion",
     "brand": "TOYOTA",
     "model": "RUMION",
-    "year": 2021,
     "price": 956000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1349,10 +1257,9 @@
     ]
   },
   {
-    "id": "toyota-taisor-2024-new",
+    "id": "toyota-taisor",
     "brand": "TOYOTA",
     "model": "TAISOR",
-    "year": 2024,
     "price": 725000,
     "fuelType": "Petrol + CNG",
     "images": [
@@ -1364,10 +1271,9 @@
     ]
   },
   {
-    "id": "volkswagen-taigun-2023-pre-owned",
+    "id": "volkswagen-taigun",
     "brand": "VOLKSWAGEN",
     "model": "TAIGUN",
-    "year": 2023,
     "price": 1142000,
     "fuelType": "Petrol",
     "images": [
@@ -1376,10 +1282,9 @@
     ]
   },
   {
-    "id": "volkswagen-tayron-n-line-2024-new",
+    "id": "volkswagen-tayron-n-line",
     "brand": "VOLKSWAGEN",
     "model": "TAYRON R LINE",
-    "year": 2024,
     "price": 4699000,
     "fuelType": "Petrol",
     "images": [
@@ -1391,10 +1296,9 @@
     ]
   },
   {
-    "id": "volkswagen-virtus-2021-pre-owned",
+    "id": "volkswagen-virtus",
     "brand": "VOLKSWAGEN",
     "model": "VIRTUS",
-    "year": 2021,
     "price": 1050000,
     "fuelType": "Petrol",
     "images": [
